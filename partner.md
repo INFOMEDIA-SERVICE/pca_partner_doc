@@ -128,36 +128,36 @@ GET /api/partner/partnerInfo
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "e3617a05-6e65-433f-b0db-c2a8747f3314",
   "nombre": "Partner 1",
   "boletasMax": 0,
   "boletasRest": 0,
   "account": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "23d4c71f-dc56-4d1e-b2b0-d64110d778ca",
     "name": "admin",
     "email": "example@email.com",
     "role": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "name": "ADMIN",
       "urlInicio": "/index.html",
       "menus": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "role": {},
           "menu": {}
         }
@@ -167,10 +167,10 @@ GET /api/partner/partnerInfo
     "estado": "ACTIVO"
   },
   "canal": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Canal A"
   },
@@ -179,21 +179,21 @@ GET /api/partner/partnerInfo
       "id": 1,
       "nombre": "TARIFA 1",
       "tipoBoleta": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "producto": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
-          "codigo": "string",
+          "codigo": "[",
           "nombre": "[",
           "descripcion": "[",
-          "valorVariable": true,
+          "valorVariable": "[",
           "valor": "[",
           "imagenId": "[",
           "tipo": "[",
@@ -207,13 +207,13 @@ GET /api/partner/partnerInfo
           "excepcionesDiasSemana": [
             null
           ],
-          "activacionDesactivacionAutomatica": true
+          "activacionDesactivacionAutomatica": "["
         },
         "categoriaEdad": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "edadInicial": "[",
@@ -221,9 +221,9 @@ GET /api/partner/partnerInfo
         },
         "categoriaEstatura": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "estaturaCmMin": "[",
@@ -298,17 +298,17 @@ GET /api/partner/buscarVentaPartner
   "size": 0,
   "content": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "reservaId": "e4b3b3b3-4b3b-4b3b-4b3b-4b3b4b3b4b3b",
       "cliente": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "identificacion": {
           "tipo": "[",
           "numero": "["
@@ -327,17 +327,17 @@ GET /api/partner/buscarVentaPartner
       },
       "registroTaquillaId": "b3b3b3b3-4b3b-4b3b-4b3b-4b3b4b3b4b3b",
       "reciboTaquilla": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "numero": 0,
         "ultimoRegistroImpresion": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": 0,
           "tipoImpresion": "[",
           "impresora": {},
@@ -348,10 +348,10 @@ GET /api/partner/buscarVentaPartner
       },
       "recepcionPago": "TAQUILLA",
       "detallesVentaProductos": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "clienteTipoIdentificacion": "CC",
         "clienteNumeroIdentificacion": "1111222333",
@@ -372,9 +372,9 @@ GET /api/partner/buscarVentaPartner
         "reservaComboId": "b5015fcd-c071-4677-a321-3ff1e45a389a",
         "descuento": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "tiposProducto": [
@@ -401,17 +401,17 @@ GET /api/partner/buscarVentaPartner
         "reservaFecha": "26-04-2024"
       },
       "transaccionesPago": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "recepcionPago": "TAQUILLA",
         "metodoPago": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "cuentaDestino": "[",
@@ -425,9 +425,9 @@ GET /api/partner/buscarVentaPartner
         "valor": 50000,
         "transaccionTaquilla": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "reservaId": "dd36d635-3836-499b-b9e8-a21f7b8f8d99",
           "metodoPago": {},
@@ -437,14 +437,14 @@ GET /api/partner/buscarVentaPartner
           "registroTaquillaId": "aded13d6-1970-4003-aa21-1f29fc5692a9",
           "cambioEfectivo": {},
           "reciboTaquillaNumero": 0,
-          "taquillaId": 0,
-          "taquillaNombre": "string"
+          "taquillaNombre": "string",
+          "taquillaId": 0
         },
         "transaccionPasarela": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "reservaId": "[",
           "tipoIdentificacionCliente": "[",
@@ -459,9 +459,9 @@ GET /api/partner/buscarVentaPartner
         },
         "transaccionParqueadero": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "metodoPago": {},
           "valor": "[",
@@ -474,9 +474,9 @@ GET /api/partner/buscarVentaPartner
         },
         "transaccionPartner": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "partnerId": "bf408d53-df49-40a6-8455-a34bd4360901",
           "reservaId": "[",
@@ -490,19 +490,54 @@ GET /api/partner/buscarVentaPartner
       "valorSinDescuento": 100000,
       "valorPagoTotal": 100000,
       "canal": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Canal A"
       },
+      "facturaVentaNumero": 1,
+      "reservaDescuento": {
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
+        "id": "6ae369b6-847e-446a-a096-06e589c63db7",
+        "nombre": "Descuento A",
+        "tiposProducto": [
+          {
+            "fechaCreado": null,
+            "creadoPor": null,
+            "fechaModificado": null,
+            "modificadoPor": null,
+            "tipoProducto": null,
+            "cantidadMax": null
+          }
+        ],
+        "aplicarConCodigo": true,
+        "codigo": "D1AHF524A0",
+        "aplicarConVigencia": true,
+        "vigenciaInicio": "26-04-2024 13:55:45",
+        "vigenciaFin": "26-04-2024 13:55:45",
+        "tipo": "PORCENTAJE",
+        "valor": 20,
+        "consumoMax": 100,
+        "consumoMaxCliente": 1,
+        "consumo": 5,
+        "estado": "ACTIVO",
+        "clientesObjetivo": true,
+        "clientesCompraronEnFechas": true,
+        "ccefFechaInicio": "26-04-2024 13:55:45",
+        "ccefFechaFin": "26-04-2024 13:55:45",
+        "clientesEspecificos": false
+      },
       "reservaFecha": "26-04-2024",
       "taquilla": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Taquilla 1",
         "conteoRecibos": 0,
@@ -523,65 +558,30 @@ GET /api/partner/buscarVentaPartner
             "tipoImpresora": null
           }
         ]
-      },
-      "facturaVentaNumero": 1,
-      "reservaDescuento": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
-        "id": "6ae369b6-847e-446a-a096-06e589c63db7",
-        "nombre": "Descuento A",
-        "tiposProducto": [
-          {
-            "fechaCreado": null,
-            "creadoPor": null,
-            "fechaModificado": null,
-            "modificadoPor": null,
-            "tipoProducto": null,
-            "cantidadMax": null
-          }
-        ],
-        "aplicarConCodigo": true,
-        "codigo": "D1AHF524A0",
-        "aplicarConVigencia": true,
-        "vigenciaInicio": "26-04-2024 12:37:36",
-        "vigenciaFin": "26-04-2024 12:37:36",
-        "tipo": "PORCENTAJE",
-        "valor": 20,
-        "consumoMax": 100,
-        "consumoMaxCliente": 1,
-        "consumo": 5,
-        "estado": "ACTIVO",
-        "clientesObjetivo": true,
-        "clientesCompraronEnFechas": true,
-        "ccefFechaInicio": "26-04-2024 12:37:36",
-        "ccefFechaFin": "26-04-2024 12:37:36",
-        "clientesEspecificos": false
       }
     }
   ],
-  "number": 0,
   "sort": {
     "empty": true,
-    "sorted": true,
-    "unsorted": true
+    "unsorted": true,
+    "sorted": true
   },
   "first": true,
   "pageable": {
     "offset": 0,
     "sort": {
       "empty": true,
-      "sorted": true,
-      "unsorted": true
+      "unsorted": true,
+      "sorted": true
     },
-    "pageNumber": 0,
-    "pageSize": 0,
+    "paged": true,
     "unpaged": true,
-    "paged": true
+    "pageSize": 0,
+    "pageNumber": 0
   },
-  "numberOfElements": 0,
   "last": true,
+  "numberOfElements": 0,
+  "number": 0,
   "empty": true
 }
 ```
@@ -618,35 +618,35 @@ GET /api/partner/buscarTipoVehiculo
   "size": 0,
   "content": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "AUTOMOVIL"
     }
   ],
-  "number": 0,
   "sort": {
     "empty": true,
-    "sorted": true,
-    "unsorted": true
+    "unsorted": true,
+    "sorted": true
   },
   "first": true,
   "pageable": {
     "offset": 0,
     "sort": {
       "empty": true,
-      "sorted": true,
-      "unsorted": true
+      "unsorted": true,
+      "sorted": true
     },
-    "pageNumber": 0,
-    "pageSize": 0,
+    "paged": true,
     "unpaged": true,
-    "paged": true
+    "pageSize": 0,
+    "pageNumber": 0
   },
-  "numberOfElements": 0,
   "last": true,
+  "numberOfElements": 0,
+  "number": 0,
   "empty": true
 }
 ```
@@ -683,21 +683,21 @@ GET /api/partner/buscarTipoServicio
   "size": 0,
   "content": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "producto": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-        "codigo": "string",
+        "codigo": "111555",
         "nombre": "Producto A",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "valorVariable": true,
+        "valorVariable": false,
         "valor": 30000,
         "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
         "tipo": "BOLETA",
@@ -728,14 +728,14 @@ GET /api/partner/buscarTipoServicio
             "domingo": null
           }
         ],
-        "activacionDesactivacionAutomatica": true
+        "activacionDesactivacionAutomatica": false
       },
       "tiposVehiculo": [
         {
-          "fechaCreado": "26-04-2024 12:37:36",
-          "creadoPor": "string",
-          "fechaModificado": "26-04-2024 12:37:36",
-          "modificadoPor": "string",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
           "id": 1,
           "nombre": "AUTOMOVIL"
         }
@@ -743,27 +743,27 @@ GET /api/partner/buscarTipoServicio
       "estado": "ACTIVO"
     }
   ],
-  "number": 0,
   "sort": {
     "empty": true,
-    "sorted": true,
-    "unsorted": true
+    "unsorted": true,
+    "sorted": true
   },
   "first": true,
   "pageable": {
     "offset": 0,
     "sort": {
       "empty": true,
-      "sorted": true,
-      "unsorted": true
+      "unsorted": true,
+      "sorted": true
     },
-    "pageNumber": 0,
-    "pageSize": 0,
+    "paged": true,
     "unpaged": true,
-    "paged": true
+    "pageSize": 0,
+    "pageNumber": 0
   },
-  "numberOfElements": 0,
   "last": true,
+  "numberOfElements": 0,
+  "number": 0,
   "empty": true
 }
 ```
@@ -800,21 +800,21 @@ GET /api/partner/buscarTipoCasilla
   "size": 0,
   "content": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "producto": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-        "codigo": "string",
+        "codigo": "111555",
         "nombre": "Producto A",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "valorVariable": true,
+        "valorVariable": false,
         "valor": 30000,
         "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
         "tipo": "BOLETA",
@@ -845,32 +845,32 @@ GET /api/partner/buscarTipoCasilla
             "domingo": null
           }
         ],
-        "activacionDesactivacionAutomatica": true
+        "activacionDesactivacionAutomatica": false
       },
       "estado": "ACTIVO"
     }
   ],
-  "number": 0,
   "sort": {
     "empty": true,
-    "sorted": true,
-    "unsorted": true
+    "unsorted": true,
+    "sorted": true
   },
   "first": true,
   "pageable": {
     "offset": 0,
     "sort": {
       "empty": true,
-      "sorted": true,
-      "unsorted": true
+      "unsorted": true,
+      "sorted": true
     },
-    "pageNumber": 0,
-    "pageSize": 0,
+    "paged": true,
     "unpaged": true,
-    "paged": true
+    "pageSize": 0,
+    "pageNumber": 0
   },
-  "numberOfElements": 0,
   "last": true,
+  "numberOfElements": 0,
+  "number": 0,
   "empty": true
 }
 ```
@@ -907,21 +907,21 @@ GET /api/partner/buscarTipoBoleta
   "size": 0,
   "content": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "producto": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-        "codigo": "string",
+        "codigo": "111555",
         "nombre": "Producto A",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "valorVariable": true,
+        "valorVariable": false,
         "valor": 30000,
         "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
         "tipo": "BOLETA",
@@ -952,23 +952,23 @@ GET /api/partner/buscarTipoBoleta
             "domingo": null
           }
         ],
-        "activacionDesactivacionAutomatica": true
+        "activacionDesactivacionAutomatica": false
       },
       "categoriaEdad": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Categoria de edad A",
         "edadInicial": 8,
         "edadFinal": 60
       },
       "categoriaEstatura": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Categoria de estatura A",
         "estaturaCmMin": 120,
@@ -977,27 +977,27 @@ GET /api/partner/buscarTipoBoleta
       "hikcentralPrivilegeGroupId": "1"
     }
   ],
-  "number": 0,
   "sort": {
     "empty": true,
-    "sorted": true,
-    "unsorted": true
+    "unsorted": true,
+    "sorted": true
   },
   "first": true,
   "pageable": {
     "offset": 0,
     "sort": {
       "empty": true,
-      "sorted": true,
-      "unsorted": true
+      "unsorted": true,
+      "sorted": true
     },
-    "pageNumber": 0,
-    "pageSize": 0,
+    "paged": true,
     "unpaged": true,
-    "paged": true
+    "pageSize": 0,
+    "pageNumber": 0
   },
-  "numberOfElements": 0,
   "last": true,
+  "numberOfElements": 0,
+  "number": 0,
   "empty": true
 }
 ```
@@ -1034,17 +1034,17 @@ GET /api/partner/buscarReserva
   "size": 0,
   "content": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "c42f2c16-13e8-4d95-af60-134881bfbba7",
       "codigo": "Q6ASG1",
       "cliente": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "identificacion": {
           "tipo": "[",
           "numero": "["
@@ -1063,19 +1063,19 @@ GET /api/partner/buscarReserva
       },
       "fecha": "26-04-2024",
       "canal": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Canal A"
       },
       "serviciosAdicionales": [
         {
-          "fechaCreado": "26-04-2024 12:37:36",
-          "creadoPor": "string",
-          "fechaModificado": "26-04-2024 12:37:36",
-          "modificadoPor": "string",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
           "id": "497f6eca-6276-4993-bfeb-53cbbbba6f08",
           "servicioAdicional": {
             "fechaCreado": null,
@@ -1093,10 +1093,10 @@ GET /api/partner/buscarReserva
       ],
       "casillas": [
         {
-          "fechaCreado": "26-04-2024 12:37:36",
-          "creadoPor": "string",
-          "fechaModificado": "26-04-2024 12:37:36",
-          "modificadoPor": "string",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
           "id": "e3617a05-6e65-433f-b0db-c2a8747f3314",
           "casilla": {
             "fechaCreado": null,
@@ -1112,16 +1112,16 @@ GET /api/partner/buscarReserva
           },
           "visitanteId": "71b09bc0-f6f6-4f86-b937-6c6689187632",
           "codigo": "6A5SD",
-          "fechaPrimeraApertura": "26-04-2024 12:37:36",
+          "fechaPrimeraApertura": "26-04-2024 13:55:45",
           "estadoPago": "APROBADO"
         }
       ],
       "vehiculos": [
         {
-          "fechaCreado": "26-04-2024 12:37:36",
-          "creadoPor": "string",
-          "fechaModificado": "26-04-2024 12:37:36",
-          "modificadoPor": "string",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
           "id": "df668ac0-9ea6-4772-b396-ed7e4b6e11fb",
           "vehiculo": {
             "fechaCreado": null,
@@ -1156,10 +1156,10 @@ GET /api/partner/buscarReserva
       ],
       "combos": [
         {
-          "fechaCreado": "26-04-2024 12:37:36",
-          "creadoPor": "string",
-          "fechaModificado": "26-04-2024 12:37:36",
-          "modificadoPor": "string",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
           "id": "df668ac0-9ea6-4772-b396-ed7e4b6e11fb",
           "combo": {
             "fechaCreado": null,
@@ -1189,10 +1189,10 @@ GET /api/partner/buscarReserva
         }
       ],
       "descuento": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": "6ae369b6-847e-446a-a096-06e589c63db7",
         "nombre": "Descuento A",
         "tiposProducto": [
@@ -1208,8 +1208,8 @@ GET /api/partner/buscarReserva
         "aplicarConCodigo": true,
         "codigo": "D1AHF524A0",
         "aplicarConVigencia": true,
-        "vigenciaInicio": "26-04-2024 12:37:36",
-        "vigenciaFin": "26-04-2024 12:37:36",
+        "vigenciaInicio": "26-04-2024 13:55:45",
+        "vigenciaFin": "26-04-2024 13:55:45",
         "tipo": "PORCENTAJE",
         "valor": 20,
         "consumoMax": 100,
@@ -1218,15 +1218,15 @@ GET /api/partner/buscarReserva
         "estado": "ACTIVO",
         "clientesObjetivo": true,
         "clientesCompraronEnFechas": true,
-        "ccefFechaInicio": "26-04-2024 12:37:36",
-        "ccefFechaFin": "26-04-2024 12:37:36",
+        "ccefFechaInicio": "26-04-2024 13:55:45",
+        "ccefFechaFin": "26-04-2024 13:55:45",
         "clientesEspecificos": false
       },
       "cortesia": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "fechaExpiracion": "26-04-2024"
       },
@@ -1234,27 +1234,27 @@ GET /api/partner/buscarReserva
       "historialVentaMasivaId": 1
     }
   ],
-  "number": 0,
   "sort": {
     "empty": true,
-    "sorted": true,
-    "unsorted": true
+    "unsorted": true,
+    "sorted": true
   },
   "first": true,
   "pageable": {
     "offset": 0,
     "sort": {
       "empty": true,
-      "sorted": true,
-      "unsorted": true
+      "unsorted": true,
+      "sorted": true
     },
-    "pageNumber": 0,
-    "pageSize": 0,
+    "paged": true,
     "unpaged": true,
-    "paged": true
+    "pageSize": 0,
+    "pageNumber": 0
   },
-  "numberOfElements": 0,
   "last": true,
+  "numberOfElements": 0,
+  "number": 0,
   "empty": true
 }
 ```
@@ -1281,17 +1281,17 @@ GET /api/partner/buscarReserva
   "size": 0,
   "content": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "c42f2c16-13e8-4d95-af60-134881bfbba7",
       "codigo": "Q6ASG1",
       "cliente": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "identificacion": {
           "tipo": "[",
           "numero": "["
@@ -1310,19 +1310,19 @@ GET /api/partner/buscarReserva
       },
       "fecha": "26-04-2024",
       "canal": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Canal A"
       },
       "serviciosAdicionales": [
         {
-          "fechaCreado": "26-04-2024 12:37:36",
-          "creadoPor": "string",
-          "fechaModificado": "26-04-2024 12:37:36",
-          "modificadoPor": "string",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
           "id": "497f6eca-6276-4993-bfeb-53cbbbba6f08",
           "servicioAdicional": {
             "fechaCreado": null,
@@ -1340,10 +1340,10 @@ GET /api/partner/buscarReserva
       ],
       "casillas": [
         {
-          "fechaCreado": "26-04-2024 12:37:36",
-          "creadoPor": "string",
-          "fechaModificado": "26-04-2024 12:37:36",
-          "modificadoPor": "string",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
           "id": "e3617a05-6e65-433f-b0db-c2a8747f3314",
           "casilla": {
             "fechaCreado": null,
@@ -1359,16 +1359,16 @@ GET /api/partner/buscarReserva
           },
           "visitanteId": "71b09bc0-f6f6-4f86-b937-6c6689187632",
           "codigo": "6A5SD",
-          "fechaPrimeraApertura": "26-04-2024 12:37:36",
+          "fechaPrimeraApertura": "26-04-2024 13:55:45",
           "estadoPago": "APROBADO"
         }
       ],
       "vehiculos": [
         {
-          "fechaCreado": "26-04-2024 12:37:36",
-          "creadoPor": "string",
-          "fechaModificado": "26-04-2024 12:37:36",
-          "modificadoPor": "string",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
           "id": "df668ac0-9ea6-4772-b396-ed7e4b6e11fb",
           "vehiculo": {
             "fechaCreado": null,
@@ -1403,10 +1403,10 @@ GET /api/partner/buscarReserva
       ],
       "combos": [
         {
-          "fechaCreado": "26-04-2024 12:37:36",
-          "creadoPor": "string",
-          "fechaModificado": "26-04-2024 12:37:36",
-          "modificadoPor": "string",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
           "id": "df668ac0-9ea6-4772-b396-ed7e4b6e11fb",
           "combo": {
             "fechaCreado": null,
@@ -1436,10 +1436,10 @@ GET /api/partner/buscarReserva
         }
       ],
       "descuento": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": "6ae369b6-847e-446a-a096-06e589c63db7",
         "nombre": "Descuento A",
         "tiposProducto": [
@@ -1455,8 +1455,8 @@ GET /api/partner/buscarReserva
         "aplicarConCodigo": true,
         "codigo": "D1AHF524A0",
         "aplicarConVigencia": true,
-        "vigenciaInicio": "26-04-2024 12:37:36",
-        "vigenciaFin": "26-04-2024 12:37:36",
+        "vigenciaInicio": "26-04-2024 13:55:45",
+        "vigenciaFin": "26-04-2024 13:55:45",
         "tipo": "PORCENTAJE",
         "valor": 20,
         "consumoMax": 100,
@@ -1465,15 +1465,15 @@ GET /api/partner/buscarReserva
         "estado": "ACTIVO",
         "clientesObjetivo": true,
         "clientesCompraronEnFechas": true,
-        "ccefFechaInicio": "26-04-2024 12:37:36",
-        "ccefFechaFin": "26-04-2024 12:37:36",
+        "ccefFechaInicio": "26-04-2024 13:55:45",
+        "ccefFechaFin": "26-04-2024 13:55:45",
         "clientesEspecificos": false
       },
       "cortesia": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "fechaExpiracion": "26-04-2024"
       },
@@ -1481,27 +1481,27 @@ GET /api/partner/buscarReserva
       "historialVentaMasivaId": 1
     }
   ],
-  "number": 0,
   "sort": {
     "empty": true,
-    "sorted": true,
-    "unsorted": true
+    "unsorted": true,
+    "sorted": true
   },
   "first": true,
   "pageable": {
     "offset": 0,
     "sort": {
       "empty": true,
-      "sorted": true,
-      "unsorted": true
+      "unsorted": true,
+      "sorted": true
     },
-    "pageNumber": 0,
-    "pageSize": 0,
+    "paged": true,
     "unpaged": true,
-    "paged": true
+    "pageSize": 0,
+    "pageNumber": 0
   },
-  "numberOfElements": 0,
   "last": true,
+  "numberOfElements": 0,
+  "number": 0,
   "empty": true
 }
 
@@ -1515,12 +1515,12 @@ GET /api/partner/buscarReserva
 |totalElements|integer(int64)|false|none||none|
 |size|integer(int32)|false|none||none|
 |content|[[Reserva](#schemareserva)]|false|none||[reserva asociada a la boleta]|
-|number|integer(int32)|false|none||none|
 |sort|[SortObject](#schemasortobject)|false|none||none|
 |first|boolean|false|none||none|
 |pageable|[PageableObject](#schemapageableobject)|false|none||none|
-|numberOfElements|integer(int32)|false|none||none|
 |last|boolean|false|none||none|
+|numberOfElements|integer(int32)|false|none||none|
+|number|integer(int32)|false|none||none|
 |empty|boolean|false|none||none|
 
 <h2 id="tocS_PageableObject">PageableObject</h2>
@@ -1535,13 +1535,13 @@ GET /api/partner/buscarReserva
   "offset": 0,
   "sort": {
     "empty": true,
-    "sorted": true,
-    "unsorted": true
+    "unsorted": true,
+    "sorted": true
   },
-  "pageNumber": 0,
-  "pageSize": 0,
+  "paged": true,
   "unpaged": true,
-  "paged": true
+  "pageSize": 0,
+  "pageNumber": 0
 }
 
 ```
@@ -1552,10 +1552,10 @@ GET /api/partner/buscarReserva
 |---|---|---|---|---|---|
 |offset|integer(int64)|false|none||none|
 |sort|[SortObject](#schemasortobject)|false|none||none|
-|pageNumber|integer(int32)|false|none||none|
-|pageSize|integer(int32)|false|none||none|
-|unpaged|boolean|false|none||none|
 |paged|boolean|false|none||none|
+|unpaged|boolean|false|none||none|
+|pageSize|integer(int32)|false|none||none|
+|pageNumber|integer(int32)|false|none||none|
 
 <h2 id="tocS_SortObject">SortObject</h2>
 
@@ -1567,8 +1567,8 @@ GET /api/partner/buscarReserva
 ```json
 {
   "empty": true,
-  "sorted": true,
-  "unsorted": true
+  "unsorted": true,
+  "sorted": true
 }
 
 ```
@@ -1578,8 +1578,8 @@ GET /api/partner/buscarReserva
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
 |empty|boolean|false|none||none|
-|sorted|boolean|false|none||none|
 |unsorted|boolean|false|none||none|
+|sorted|boolean|false|none||none|
 
 <h2 id="tocS_Reserva">Reserva</h2>
 
@@ -1590,17 +1590,17 @@ GET /api/partner/buscarReserva
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "c42f2c16-13e8-4d95-af60-134881bfbba7",
   "codigo": "Q6ASG1",
   "cliente": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "identificacion": {
       "tipo": "CC",
       "numero": "1111111111"
@@ -1619,36 +1619,36 @@ GET /api/partner/buscarReserva
   },
   "fecha": "26-04-2024",
   "canal": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Canal A"
   },
   "serviciosAdicionales": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "497f6eca-6276-4993-bfeb-53cbbbba6f08",
       "servicioAdicional": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "producto": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
-          "codigo": "string",
+          "codigo": "[",
           "nombre": "[",
           "descripcion": "[",
-          "valorVariable": true,
+          "valorVariable": "[",
           "valor": "[",
           "imagenId": "[",
           "tipo": "[",
@@ -1662,13 +1662,13 @@ GET /api/partner/buscarReserva
           "excepcionesDiasSemana": [
             null
           ],
-          "activacionDesactivacionAutomatica": true
+          "activacionDesactivacionAutomatica": "["
         },
         "categoriaServicio": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "["
         }
@@ -1680,24 +1680,24 @@ GET /api/partner/buscarReserva
   ],
   "casillas": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "e3617a05-6e65-433f-b0db-c2a8747f3314",
       "casilla": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "hid": "1527-1",
         "nombre": "226",
         "casillero": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "hid": "[",
           "nombre": "[",
@@ -1707,9 +1707,9 @@ GET /api/partner/buscarReserva
         },
         "tipo": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "producto": {},
           "estado": "["
@@ -1718,39 +1718,39 @@ GET /api/partner/buscarReserva
       },
       "visitanteId": "71b09bc0-f6f6-4f86-b937-6c6689187632",
       "codigo": "6A5SD",
-      "fechaPrimeraApertura": "26-04-2024 12:37:36",
+      "fechaPrimeraApertura": "26-04-2024 13:55:45",
       "estadoPago": "APROBADO"
     }
   ],
   "vehiculos": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "df668ac0-9ea6-4772-b396-ed7e4b6e11fb",
       "vehiculo": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": "a90fbb8e-6318-4d52-812b-2b98018460c5",
         "placa": "AAA111",
         "tipo": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "["
         },
         "hikcentralVehicleId": "1"
       },
       "zonaParqueadero": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Zona de paqueadero A",
         "aforoMax": 40,
@@ -1758,9 +1758,9 @@ GET /api/partner/buscarReserva
         "tiempoMaxSalidaSinCobro": 15,
         "tipoServicio": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "producto": {},
           "tiposVehiculo": [
@@ -1793,21 +1793,21 @@ GET /api/partner/buscarReserva
   ],
   "combos": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "df668ac0-9ea6-4772-b396-ed7e4b6e11fb",
       "combo": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-        "codigo": "string",
+        "codigo": "111555",
         "nombre": "Producto A",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "valorVariable": true,
+        "valorVariable": false,
         "valor": 30000,
         "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
         "tipo": "BOLETA",
@@ -1838,14 +1838,14 @@ GET /api/partner/buscarReserva
             "domingo": null
           }
         ],
-        "activacionDesactivacionAutomatica": true
+        "activacionDesactivacionAutomatica": false
       },
       "reservaProducto": [
         {
-          "fechaCreado": "26-04-2024 12:37:36",
-          "creadoPor": "string",
-          "fechaModificado": "26-04-2024 12:37:36",
-          "modificadoPor": "string",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
           "id": 0,
           "tipoProducto": "BOLETA",
           "reservaProductoId": "839d0ba2-4b42-487d-b280-4c3ba14bac66"
@@ -1855,18 +1855,18 @@ GET /api/partner/buscarReserva
     }
   ],
   "descuento": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "6ae369b6-847e-446a-a096-06e589c63db7",
     "nombre": "Descuento A",
     "tiposProducto": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "tipoProducto": "BOLETA",
         "cantidadMax": 0
       }
@@ -1874,8 +1874,8 @@ GET /api/partner/buscarReserva
     "aplicarConCodigo": true,
     "codigo": "D1AHF524A0",
     "aplicarConVigencia": true,
-    "vigenciaInicio": "26-04-2024 12:37:36",
-    "vigenciaFin": "26-04-2024 12:37:36",
+    "vigenciaInicio": "26-04-2024 13:55:45",
+    "vigenciaFin": "26-04-2024 13:55:45",
     "tipo": "PORCENTAJE",
     "valor": 20,
     "consumoMax": 100,
@@ -1884,15 +1884,15 @@ GET /api/partner/buscarReserva
     "estado": "ACTIVO",
     "clientesObjetivo": true,
     "clientesCompraronEnFechas": true,
-    "ccefFechaInicio": "26-04-2024 12:37:36",
-    "ccefFechaFin": "26-04-2024 12:37:36",
+    "ccefFechaInicio": "26-04-2024 13:55:45",
+    "ccefFechaFin": "26-04-2024 13:55:45",
     "clientesEspecificos": false
   },
   "cortesia": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 0,
     "fechaExpiracion": "26-04-2024"
   },
@@ -1908,10 +1908,10 @@ reserva asociada a la boleta
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|string(uuid)|false|none||id de la reserva|
 |codigo|string|false|none||codigo de la reserva|
 |cliente|[Cliente](#schemacliente)|false|none||cliente asociado con esta reserva|
@@ -1935,10 +1935,10 @@ reserva asociada a la boleta
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 0,
   "fechaExpiracion": "26-04-2024"
 }
@@ -1951,10 +1951,10 @@ cortesia asociada con esta reserva
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||none|
 |fechaExpiracion|string|false|none||none|
 
@@ -1967,18 +1967,18 @@ cortesia asociada con esta reserva
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "6ae369b6-847e-446a-a096-06e589c63db7",
   "nombre": "Descuento A",
   "tiposProducto": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "tipoProducto": "BOLETA",
       "cantidadMax": 0
     }
@@ -1986,8 +1986,8 @@ cortesia asociada con esta reserva
   "aplicarConCodigo": true,
   "codigo": "D1AHF524A0",
   "aplicarConVigencia": true,
-  "vigenciaInicio": "26-04-2024 12:37:36",
-  "vigenciaFin": "26-04-2024 12:37:36",
+  "vigenciaInicio": "26-04-2024 13:55:45",
+  "vigenciaFin": "26-04-2024 13:55:45",
   "tipo": "PORCENTAJE",
   "valor": 20,
   "consumoMax": 100,
@@ -1996,8 +1996,8 @@ cortesia asociada con esta reserva
   "estado": "ACTIVO",
   "clientesObjetivo": true,
   "clientesCompraronEnFechas": true,
-  "ccefFechaInicio": "26-04-2024 12:37:36",
-  "ccefFechaFin": "26-04-2024 12:37:36",
+  "ccefFechaInicio": "26-04-2024 13:55:45",
+  "ccefFechaFin": "26-04-2024 13:55:45",
   "clientesEspecificos": false
 }
 
@@ -2009,10 +2009,10 @@ descuento asociado con esta reserva
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|string(uuid)|false|none||id del descuento|
 |nombre|string|false|none||nombre del descuento|
 |tiposProducto|[[DescuentoTipoProducto](#schemadescuentotipoproducto)]|false|none||[Tipos de producto a los cuales se aplica este descuento, vacio para aplicar a todos]|
@@ -2051,10 +2051,10 @@ descuento asociado con esta reserva
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "tipoProducto": "BOLETA",
   "cantidadMax": 0
 }
@@ -2067,10 +2067,10 @@ Tipos de producto a los cuales se aplica este descuento, vacio para aplicar a to
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |tipoProducto|string|false|none||none|
 |cantidadMax|integer(int32)|false|none||none|
 
@@ -2093,40 +2093,40 @@ Tipos de producto a los cuales se aplica este descuento, vacio para aplicar a to
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "df668ac0-9ea6-4772-b396-ed7e4b6e11fb",
   "combo": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-    "codigo": "string",
+    "codigo": "111555",
     "nombre": "Producto A",
     "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "valorVariable": true,
+    "valorVariable": false,
     "valor": 30000,
     "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
     "tipo": "BOLETA",
     "productosCombo": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "producto": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
-          "codigo": "string",
+          "codigo": "[",
           "nombre": "[",
           "descripcion": "[",
-          "valorVariable": true,
+          "valorVariable": "[",
           "valor": "[",
           "imagenId": "[",
           "tipo": "[",
@@ -2140,9 +2140,9 @@ Tipos de producto a los cuales se aplica este descuento, vacio para aplicar a to
           "excepcionesDiasSemana": [
             null
           ],
-          "activacionDesactivacionAutomatica": true
+          "activacionDesactivacionAutomatica": "["
         },
-        "cantidad": 0
+        "cantidad": 1
       }
     ],
     "ventaFechaInicio": "26-04-2024",
@@ -2151,25 +2151,25 @@ Tipos de producto a los cuales se aplica este descuento, vacio para aplicar a to
     "consumoFechaFin": "26-04-2024",
     "excepcionesDiasSemana": [
       {
-        "id": 0,
+        "id": 1,
         "tipo": "VENTA",
-        "lunes": true,
-        "martes": true,
-        "miercoles": true,
-        "jueves": true,
-        "viernes": true,
-        "sabado": true,
-        "domingo": true
+        "lunes": false,
+        "martes": false,
+        "miercoles": false,
+        "jueves": false,
+        "viernes": false,
+        "sabado": false,
+        "domingo": false
       }
     ],
-    "activacionDesactivacionAutomatica": true
+    "activacionDesactivacionAutomatica": false
   },
   "reservaProducto": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 0,
       "tipoProducto": "BOLETA",
       "reservaProductoId": "839d0ba2-4b42-487d-b280-4c3ba14bac66"
@@ -2186,10 +2186,10 @@ combos de productos asociados con esta reserva
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|string(uuid)|false|none||id de la reserva de combo|
 |combo|[Producto](#schemaproducto)|false|none||detalle del producto|
 |reservaProducto|[[ReservaComboProducto](#schemareservacomboproducto)]|false|none||none|
@@ -2212,10 +2212,10 @@ combos de productos asociados con esta reserva
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 0,
   "tipoProducto": "BOLETA",
   "reservaProductoId": "839d0ba2-4b42-487d-b280-4c3ba14bac66"
@@ -2227,10 +2227,10 @@ combos de productos asociados con esta reserva
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||none|
 |tipoProducto|string|false|none||tipo de producto|
 |reservaProductoId|string(uuid)|false|none||none|
@@ -2254,34 +2254,34 @@ combos de productos asociados con esta reserva
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-  "codigo": "string",
+  "codigo": "111555",
   "nombre": "Producto A",
   "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-  "valorVariable": true,
+  "valorVariable": false,
   "valor": 30000,
   "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
   "tipo": "BOLETA",
   "productosCombo": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "producto": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-        "codigo": "string",
+        "codigo": "111555",
         "nombre": "Producto A",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "valorVariable": true,
+        "valorVariable": false,
         "valor": 30000,
         "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
         "tipo": "BOLETA",
@@ -2312,9 +2312,9 @@ combos de productos asociados con esta reserva
             "domingo": null
           }
         ],
-        "activacionDesactivacionAutomatica": true
+        "activacionDesactivacionAutomatica": false
       },
-      "cantidad": 0
+      "cantidad": 1
     }
   ],
   "ventaFechaInicio": "26-04-2024",
@@ -2323,18 +2323,18 @@ combos de productos asociados con esta reserva
   "consumoFechaFin": "26-04-2024",
   "excepcionesDiasSemana": [
     {
-      "id": 0,
+      "id": 1,
       "tipo": "VENTA",
-      "lunes": true,
-      "martes": true,
-      "miercoles": true,
-      "jueves": true,
-      "viernes": true,
-      "sabado": true,
-      "domingo": true
+      "lunes": false,
+      "martes": false,
+      "miercoles": false,
+      "jueves": false,
+      "viernes": false,
+      "sabado": false,
+      "domingo": false
     }
   ],
-  "activacionDesactivacionAutomatica": true
+  "activacionDesactivacionAutomatica": false
 }
 
 ```
@@ -2345,25 +2345,25 @@ detalle del producto
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|string(uuid)|false|none||id del producto|
-|codigo|string|false|none||none|
+|codigo|string|false|none||codigo del producto|
 |nombre|string|false|none||nombre del producto|
 |descripcion|string|false|none||descripcion del producto|
-|valorVariable|boolean|false|none||none|
+|valorVariable|boolean|false|none||indica si el valor del producto es variable|
 |valor|number(double)|false|none||valor del producto|
 |imagenId|string(uuid)|false|none||id de la imagen del producto del producto|
 |tipo|string|false|none||tipo de producto|
-|productosCombo|[[ProductoCombo](#schemaproductocombo)]|false|none||none|
-|ventaFechaInicio|string|false|none||none|
-|ventaFechaFin|string|false|none||none|
-|consumoFechaInicio|string|false|none||none|
-|consumoFechaFin|string|false|none||none|
-|excepcionesDiasSemana|[[ProductoExcepcionesDiasSemana](#schemaproductoexcepcionesdiassemana)]|false|none||none|
-|activacionDesactivacionAutomatica|boolean|false|none||none|
+|productosCombo|[[ProductoCombo](#schemaproductocombo)]|false|none||[productos del combo]|
+|ventaFechaInicio|string|false|none||fecha de inicio de venta del producto|
+|ventaFechaFin|string|false|none||fecha de fin de venta del producto|
+|consumoFechaInicio|string|false|none||fecha de inicio de consumo del producto|
+|consumoFechaFin|string|false|none||fecha de fin de consumo del producto|
+|excepcionesDiasSemana|[[ProductoExcepcionesDiasSemana](#schemaproductoexcepcionesdiassemana)]|false|none||[excepciones de dias de la semana del producto]|
+|activacionDesactivacionAutomatica|boolean|false|none||indica si la activacion y desactivacion del producto es automatica|
 
 #### Enum
 
@@ -2384,32 +2384,34 @@ detalle del producto
 
 ```json
 {
-  "id": 0,
+  "id": 1,
   "tipo": "VENTA",
-  "lunes": true,
-  "martes": true,
-  "miercoles": true,
-  "jueves": true,
-  "viernes": true,
-  "sabado": true,
-  "domingo": true
+  "lunes": false,
+  "martes": false,
+  "miercoles": false,
+  "jueves": false,
+  "viernes": false,
+  "sabado": false,
+  "domingo": false
 }
 
 ```
+
+excepciones de dias de la semana del producto
 
 ### Attribute
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|id|integer(int64)|false|none||none|
-|tipo|string|false|none||none|
-|lunes|boolean|false|none||none|
-|martes|boolean|false|none||none|
-|miercoles|boolean|false|none||none|
-|jueves|boolean|false|none||none|
-|viernes|boolean|false|none||none|
-|sabado|boolean|false|none||none|
-|domingo|boolean|false|none||none|
+|id|integer(int64)|false|none||id de la excepcion de dias de la semana|
+|tipo|string|false|none||tipo de excepcion de dias de la semana|
+|lunes|boolean|false|none||indica si la excepcion aplica para el dia lunes|
+|martes|boolean|false|none||indica si la excepcion aplica para el dia martes|
+|miercoles|boolean|false|none||indica si la excepcion aplica para el dia miercoles|
+|jueves|boolean|false|none||indica si la excepcion aplica para el dia jueves|
+|viernes|boolean|false|none||indica si la excepcion aplica para el dia viernes|
+|sabado|boolean|false|none||indica si la excepcion aplica para el dia sabado|
+|domingo|boolean|false|none||indica si la excepcion aplica para el dia domingo|
 
 #### Enum
 
@@ -2427,39 +2429,39 @@ detalle del producto
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "producto": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-    "codigo": "string",
+    "codigo": "111555",
     "nombre": "Producto A",
     "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "valorVariable": true,
+    "valorVariable": false,
     "valor": 30000,
     "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
     "tipo": "BOLETA",
     "productosCombo": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "producto": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
-          "codigo": "string",
+          "codigo": "[",
           "nombre": "[",
           "descripcion": "[",
-          "valorVariable": true,
+          "valorVariable": "[",
           "valor": "[",
           "imagenId": "[",
           "tipo": "[",
@@ -2473,9 +2475,9 @@ detalle del producto
           "excepcionesDiasSemana": [
             null
           ],
-          "activacionDesactivacionAutomatica": true
+          "activacionDesactivacionAutomatica": "["
         },
-        "cantidad": 0
+        "cantidad": 1
       }
     ],
     "ventaFechaInicio": "26-04-2024",
@@ -2484,34 +2486,36 @@ detalle del producto
     "consumoFechaFin": "26-04-2024",
     "excepcionesDiasSemana": [
       {
-        "id": 0,
+        "id": 1,
         "tipo": "VENTA",
-        "lunes": true,
-        "martes": true,
-        "miercoles": true,
-        "jueves": true,
-        "viernes": true,
-        "sabado": true,
-        "domingo": true
+        "lunes": false,
+        "martes": false,
+        "miercoles": false,
+        "jueves": false,
+        "viernes": false,
+        "sabado": false,
+        "domingo": false
       }
     ],
-    "activacionDesactivacionAutomatica": true
+    "activacionDesactivacionAutomatica": false
   },
-  "cantidad": 0
+  "cantidad": 1
 }
 
 ```
+
+productos del combo
 
 ### Attribute
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |producto|[Producto](#schemaproducto)|false|none||detalle del producto|
-|cantidad|integer(int32)|false|none||none|
+|cantidad|integer(int32)|false|none||cantidad del producto en el combo|
 
 <h2 id="tocS_ReservaVehiculo">ReservaVehiculo</h2>
 
@@ -2522,54 +2526,54 @@ detalle del producto
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "df668ac0-9ea6-4772-b396-ed7e4b6e11fb",
   "vehiculo": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "a90fbb8e-6318-4d52-812b-2b98018460c5",
     "placa": "AAA111",
     "tipo": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "AUTOMOVIL"
     },
     "hikcentralVehicleId": "1"
   },
   "zonaParqueadero": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Zona de paqueadero A",
     "aforoMax": 40,
     "reservaMax": 30,
     "tiempoMaxSalidaSinCobro": 15,
     "tipoServicio": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "producto": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-        "codigo": "string",
+        "codigo": "111555",
         "nombre": "Producto A",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "valorVariable": true,
+        "valorVariable": false,
         "valor": 30000,
         "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
         "tipo": "BOLETA",
@@ -2583,14 +2587,14 @@ detalle del producto
         "excepcionesDiasSemana": [
           {}
         ],
-        "activacionDesactivacionAutomatica": true
+        "activacionDesactivacionAutomatica": false
       },
       "tiposVehiculo": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "["
         }
@@ -2599,18 +2603,18 @@ detalle del producto
     },
     "camarasPlaca": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Camara de placas 1",
         "tipo": "ENTRADA",
         "zonaParqueadero": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "aforoMax": "[",
@@ -2646,10 +2650,10 @@ vehiculos asociados con esta reserva
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|string(uuid)|false|none||id de la reserva de vehiculo|
 |vehiculo|[Vehiculo](#schemavehiculo)|false|none||none|
 |zonaParqueadero|[ZonaParqueadero](#schemazonaparqueadero)|false|none||none|
@@ -2673,42 +2677,42 @@ vehiculos asociados con esta reserva
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "nombre": "Zona de paqueadero A",
   "aforoMax": 40,
   "reservaMax": 30,
   "tiempoMaxSalidaSinCobro": 15,
   "tipoServicio": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "producto": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-      "codigo": "string",
+      "codigo": "111555",
       "nombre": "Producto A",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "valorVariable": true,
+      "valorVariable": false,
       "valor": 30000,
       "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
       "tipo": "BOLETA",
       "productosCombo": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "producto": {},
-          "cantidad": 0
+          "cantidad": "["
         }
       ],
       "ventaFechaInicio": "26-04-2024",
@@ -2717,25 +2721,25 @@ vehiculos asociados con esta reserva
       "consumoFechaFin": "26-04-2024",
       "excepcionesDiasSemana": [
         {
-          "id": 0,
+          "id": "[",
           "tipo": "[",
-          "lunes": true,
-          "martes": true,
-          "miercoles": true,
-          "jueves": true,
-          "viernes": true,
-          "sabado": true,
-          "domingo": true
+          "lunes": "[",
+          "martes": "[",
+          "miercoles": "[",
+          "jueves": "[",
+          "viernes": "[",
+          "sabado": "[",
+          "domingo": "["
         }
       ],
-      "activacionDesactivacionAutomatica": true
+      "activacionDesactivacionAutomatica": false
     },
     "tiposVehiculo": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "AUTOMOVIL"
       }
@@ -2744,18 +2748,18 @@ vehiculos asociados con esta reserva
   },
   "camarasPlaca": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "Camara de placas 1",
       "tipo": "ENTRADA",
       "zonaParqueadero": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Zona de paqueadero A",
         "aforoMax": 40,
@@ -2763,9 +2767,9 @@ vehiculos asociados con esta reserva
         "tiempoMaxSalidaSinCobro": 15,
         "tipoServicio": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "producto": {},
           "tiposVehiculo": [
@@ -2808,10 +2812,10 @@ vehiculos asociados con esta reserva
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id de la zona de parqueadero|
 |nombre|string|false|none||nombre de la zona de parqueadero|
 |aforoMax|integer(int32)|false|none||cantidad maxima de vehiculos que permite esta zona de parqueaderos|
@@ -2840,39 +2844,39 @@ vehiculos asociados con esta reserva
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "nombre": "Camara de placas 1",
   "tipo": "ENTRADA",
   "zonaParqueadero": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Zona de paqueadero A",
     "aforoMax": 40,
     "reservaMax": 30,
     "tiempoMaxSalidaSinCobro": 15,
     "tipoServicio": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "producto": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-        "codigo": "string",
+        "codigo": "111555",
         "nombre": "Producto A",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "valorVariable": true,
+        "valorVariable": false,
         "valor": 30000,
         "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
         "tipo": "BOLETA",
@@ -2886,14 +2890,14 @@ vehiculos asociados con esta reserva
         "excepcionesDiasSemana": [
           {}
         ],
-        "activacionDesactivacionAutomatica": true
+        "activacionDesactivacionAutomatica": false
       },
       "tiposVehiculo": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "["
         }
@@ -2902,18 +2906,18 @@ vehiculos asociados con esta reserva
     },
     "camarasPlaca": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Camara de placas 1",
         "tipo": "ENTRADA",
         "zonaParqueadero": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "aforoMax": "[",
@@ -2947,10 +2951,10 @@ vehiculos asociados con esta reserva
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id de la camara de placas|
 |nombre|string|false|none||nombre de la camara de placas|
 |tipo|string|false|none||tipo de uso de la camara de placas|
@@ -2976,40 +2980,40 @@ vehiculos asociados con esta reserva
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "producto": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-    "codigo": "string",
+    "codigo": "111555",
     "nombre": "Producto A",
     "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "valorVariable": true,
+    "valorVariable": false,
     "valor": 30000,
     "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
     "tipo": "BOLETA",
     "productosCombo": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "producto": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
-          "codigo": "string",
+          "codigo": "[",
           "nombre": "[",
           "descripcion": "[",
-          "valorVariable": true,
+          "valorVariable": "[",
           "valor": "[",
           "imagenId": "[",
           "tipo": "[",
@@ -3023,9 +3027,9 @@ vehiculos asociados con esta reserva
           "excepcionesDiasSemana": [
             null
           ],
-          "activacionDesactivacionAutomatica": true
+          "activacionDesactivacionAutomatica": "["
         },
-        "cantidad": 0
+        "cantidad": 1
       }
     ],
     "ventaFechaInicio": "26-04-2024",
@@ -3034,25 +3038,25 @@ vehiculos asociados con esta reserva
     "consumoFechaFin": "26-04-2024",
     "excepcionesDiasSemana": [
       {
-        "id": 0,
+        "id": 1,
         "tipo": "VENTA",
-        "lunes": true,
-        "martes": true,
-        "miercoles": true,
-        "jueves": true,
-        "viernes": true,
-        "sabado": true,
-        "domingo": true
+        "lunes": false,
+        "martes": false,
+        "miercoles": false,
+        "jueves": false,
+        "viernes": false,
+        "sabado": false,
+        "domingo": false
       }
     ],
-    "activacionDesactivacionAutomatica": true
+    "activacionDesactivacionAutomatica": false
   },
   "tiposVehiculo": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "AUTOMOVIL"
     }
@@ -3066,10 +3070,10 @@ vehiculos asociados con esta reserva
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id del tipo de servicio de parqueadero|
 |producto|[Producto](#schemaproducto)|false|none||detalle del producto|
 |tiposVehiculo|[[TipoVehiculo](#schematipovehiculo)]|false|none||[tipo de vehiculo]|
@@ -3091,10 +3095,10 @@ vehiculos asociados con esta reserva
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "nombre": "AUTOMOVIL"
 }
@@ -3107,10 +3111,10 @@ tipo de vehiculo
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id del tipo de vehiculo|
 |nombre|string|false|none||nombre del tipo de vehiculo|
 
@@ -3123,17 +3127,17 @@ tipo de vehiculo
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "a90fbb8e-6318-4d52-812b-2b98018460c5",
   "placa": "AAA111",
   "tipo": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "AUTOMOVIL"
   },
@@ -3146,10 +3150,10 @@ tipo de vehiculo
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|string(uuid)|false|none||id del vehiculo|
 |placa|string|false|none||placa del vehiculo|
 |tipo|[TipoVehiculo](#schematipovehiculo)|false|none||tipo de vehiculo|
@@ -3164,54 +3168,54 @@ tipo de vehiculo
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "e3617a05-6e65-433f-b0db-c2a8747f3314",
   "casilla": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "hid": "1527-1",
     "nombre": "226",
     "casillero": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "hid": "wkt1310",
       "nombre": "Casillero 1",
       "hikcentralPrivilegeGroupId": "1",
       "ubicacion": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Ubicacion A"
       },
       "prioridad": 1
     },
     "tipo": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "producto": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-        "codigo": "string",
+        "codigo": "111555",
         "nombre": "Producto A",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "valorVariable": true,
+        "valorVariable": false,
         "valor": 30000,
         "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
         "tipo": "BOLETA",
@@ -3225,7 +3229,7 @@ tipo de vehiculo
         "excepcionesDiasSemana": [
           {}
         ],
-        "activacionDesactivacionAutomatica": true
+        "activacionDesactivacionAutomatica": false
       },
       "estado": "ACTIVO"
     },
@@ -3233,7 +3237,7 @@ tipo de vehiculo
   },
   "visitanteId": "71b09bc0-f6f6-4f86-b937-6c6689187632",
   "codigo": "6A5SD",
-  "fechaPrimeraApertura": "26-04-2024 12:37:36",
+  "fechaPrimeraApertura": "26-04-2024 13:55:45",
   "estadoPago": "APROBADO"
 }
 
@@ -3245,10 +3249,10 @@ reserva de casilla asociada al visitante
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|string(uuid)|false|none||id de la reserva de casilla|
 |casilla|[Casilla](#schemacasilla)|false|none||casilla de la reserva|
 |visitanteId|string(uuid)|false|none||id del visitante que tiene asginada esta reserva de casilla|
@@ -3273,59 +3277,59 @@ reserva de casilla asociada al visitante
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "hid": "1527-1",
   "nombre": "226",
   "casillero": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "hid": "wkt1310",
     "nombre": "Casillero 1",
     "hikcentralPrivilegeGroupId": "1",
     "ubicacion": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "Ubicacion A"
     },
     "prioridad": 1
   },
   "tipo": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "producto": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-      "codigo": "string",
+      "codigo": "111555",
       "nombre": "Producto A",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "valorVariable": true,
+      "valorVariable": false,
       "valor": 30000,
       "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
       "tipo": "BOLETA",
       "productosCombo": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "producto": {},
-          "cantidad": 0
+          "cantidad": "["
         }
       ],
       "ventaFechaInicio": "26-04-2024",
@@ -3334,18 +3338,18 @@ reserva de casilla asociada al visitante
       "consumoFechaFin": "26-04-2024",
       "excepcionesDiasSemana": [
         {
-          "id": 0,
+          "id": "[",
           "tipo": "[",
-          "lunes": true,
-          "martes": true,
-          "miercoles": true,
-          "jueves": true,
-          "viernes": true,
-          "sabado": true,
-          "domingo": true
+          "lunes": "[",
+          "martes": "[",
+          "miercoles": "[",
+          "jueves": "[",
+          "viernes": "[",
+          "sabado": "[",
+          "domingo": "["
         }
       ],
-      "activacionDesactivacionAutomatica": true
+      "activacionDesactivacionAutomatica": false
     },
     "estado": "ACTIVO"
   },
@@ -3360,10 +3364,10 @@ casilla de la reserva
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id de la casilla|
 |hid|string|false|none||id de hardware la casilla|
 |nombre|string|false|none||nombre de la casilla|
@@ -3380,40 +3384,40 @@ casilla de la reserva
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "producto": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-    "codigo": "string",
+    "codigo": "111555",
     "nombre": "Producto A",
     "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "valorVariable": true,
+    "valorVariable": false,
     "valor": 30000,
     "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
     "tipo": "BOLETA",
     "productosCombo": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "producto": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
-          "codigo": "string",
+          "codigo": "[",
           "nombre": "[",
           "descripcion": "[",
-          "valorVariable": true,
+          "valorVariable": "[",
           "valor": "[",
           "imagenId": "[",
           "tipo": "[",
@@ -3427,9 +3431,9 @@ casilla de la reserva
           "excepcionesDiasSemana": [
             null
           ],
-          "activacionDesactivacionAutomatica": true
+          "activacionDesactivacionAutomatica": "["
         },
-        "cantidad": 0
+        "cantidad": 1
       }
     ],
     "ventaFechaInicio": "26-04-2024",
@@ -3438,18 +3442,18 @@ casilla de la reserva
     "consumoFechaFin": "26-04-2024",
     "excepcionesDiasSemana": [
       {
-        "id": 0,
+        "id": 1,
         "tipo": "VENTA",
-        "lunes": true,
-        "martes": true,
-        "miercoles": true,
-        "jueves": true,
-        "viernes": true,
-        "sabado": true,
-        "domingo": true
+        "lunes": false,
+        "martes": false,
+        "miercoles": false,
+        "jueves": false,
+        "viernes": false,
+        "sabado": false,
+        "domingo": false
       }
     ],
-    "activacionDesactivacionAutomatica": true
+    "activacionDesactivacionAutomatica": false
   },
   "estado": "ACTIVO"
 }
@@ -3462,10 +3466,10 @@ tipo de casilla
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id del tipo de casilla|
 |producto|[Producto](#schemaproducto)|false|none||detalle del producto|
 |estado|string|false|none||estado del tipo de casilla|
@@ -3486,19 +3490,19 @@ tipo de casilla
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "hid": "wkt1310",
   "nombre": "Casillero 1",
   "hikcentralPrivilegeGroupId": "1",
   "ubicacion": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Ubicacion A"
   },
@@ -3513,10 +3517,10 @@ casillero de la casilla en el cual se encuentra la casilla
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id del casillero|
 |hid|string|false|none||id de hardware del casillero|
 |nombre|string|false|none||nombre del casillero|
@@ -3533,10 +3537,10 @@ casillero de la casilla en el cual se encuentra la casilla
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "nombre": "Ubicacion A"
 }
@@ -3549,10 +3553,10 @@ ubicacion del casillero
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id de la ubicacion|
 |nombre|string|false|none||nombre de la ubicacion|
 
@@ -3565,38 +3569,38 @@ ubicacion del casillero
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "497f6eca-6276-4993-bfeb-53cbbbba6f08",
   "servicioAdicional": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "producto": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-      "codigo": "string",
+      "codigo": "111555",
       "nombre": "Producto A",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "valorVariable": true,
+      "valorVariable": false,
       "valor": 30000,
       "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
       "tipo": "BOLETA",
       "productosCombo": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "producto": {},
-          "cantidad": 0
+          "cantidad": "["
         }
       ],
       "ventaFechaInicio": "26-04-2024",
@@ -3605,24 +3609,24 @@ ubicacion del casillero
       "consumoFechaFin": "26-04-2024",
       "excepcionesDiasSemana": [
         {
-          "id": 0,
+          "id": "[",
           "tipo": "[",
-          "lunes": true,
-          "martes": true,
-          "miercoles": true,
-          "jueves": true,
-          "viernes": true,
-          "sabado": true,
-          "domingo": true
+          "lunes": "[",
+          "martes": "[",
+          "miercoles": "[",
+          "jueves": "[",
+          "viernes": "[",
+          "sabado": "[",
+          "domingo": "["
         }
       ],
-      "activacionDesactivacionAutomatica": true
+      "activacionDesactivacionAutomatica": false
     },
     "categoriaServicio": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "Servicios A"
     }
@@ -3640,10 +3644,10 @@ servicios adicionales asociados con esta reserva
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|string(uuid)|false|none||id de la reserva de servicio adicional|
 |servicioAdicional|[ServicioAdicional](#schemaservicioadicional)|false|none||none|
 |visitanteId|string(uuid)|false|none||none|
@@ -3667,40 +3671,40 @@ servicios adicionales asociados con esta reserva
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "producto": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-    "codigo": "string",
+    "codigo": "111555",
     "nombre": "Producto A",
     "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "valorVariable": true,
+    "valorVariable": false,
     "valor": 30000,
     "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
     "tipo": "BOLETA",
     "productosCombo": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "producto": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
-          "codigo": "string",
+          "codigo": "[",
           "nombre": "[",
           "descripcion": "[",
-          "valorVariable": true,
+          "valorVariable": "[",
           "valor": "[",
           "imagenId": "[",
           "tipo": "[",
@@ -3714,9 +3718,9 @@ servicios adicionales asociados con esta reserva
           "excepcionesDiasSemana": [
             null
           ],
-          "activacionDesactivacionAutomatica": true
+          "activacionDesactivacionAutomatica": "["
         },
-        "cantidad": 0
+        "cantidad": 1
       }
     ],
     "ventaFechaInicio": "26-04-2024",
@@ -3725,24 +3729,24 @@ servicios adicionales asociados con esta reserva
     "consumoFechaFin": "26-04-2024",
     "excepcionesDiasSemana": [
       {
-        "id": 0,
+        "id": 1,
         "tipo": "VENTA",
-        "lunes": true,
-        "martes": true,
-        "miercoles": true,
-        "jueves": true,
-        "viernes": true,
-        "sabado": true,
-        "domingo": true
+        "lunes": false,
+        "martes": false,
+        "miercoles": false,
+        "jueves": false,
+        "viernes": false,
+        "sabado": false,
+        "domingo": false
       }
     ],
-    "activacionDesactivacionAutomatica": true
+    "activacionDesactivacionAutomatica": false
   },
   "categoriaServicio": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Servicios A"
   }
@@ -3754,10 +3758,10 @@ servicios adicionales asociados con esta reserva
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id del servicio adicional|
 |producto|[Producto](#schemaproducto)|false|none||detalle del producto|
 |categoriaServicio|[CategoriaServicio](#schemacategoriaservicio)|false|none||none|
@@ -3771,10 +3775,10 @@ servicios adicionales asociados con esta reserva
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "nombre": "Servicios A"
 }
@@ -3785,10 +3789,10 @@ servicios adicionales asociados con esta reserva
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id de la categoria de servicios adicionales|
 |nombre|string|false|none||nombre de la categoria de servicios adicionales|
 
@@ -3801,10 +3805,10 @@ servicios adicionales asociados con esta reserva
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "nombre": "Canal A"
 }
@@ -3817,10 +3821,10 @@ canal asociado con esta reserva
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id del canal|
 |nombre|string|false|none||nombre del canal|
 
@@ -3833,10 +3837,10 @@ canal asociado con esta reserva
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "identificacion": {
     "tipo": "CC",
     "numero": "1111111111"
@@ -3862,10 +3866,10 @@ cliente asociado con esta reserva
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |identificacion|[Identificacion](#schemaidentificacion)|false|none||identificacion del cliente|
 |primerNombre|string|false|none||primer nombre del cliente|
 |segundoNombre|string|false|none||segundo nombre del cliente|
@@ -4014,21 +4018,21 @@ identificacion del cliente
   "size": 0,
   "content": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "producto": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-        "codigo": "string",
+        "codigo": "111555",
         "nombre": "Producto A",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "valorVariable": true,
+        "valorVariable": false,
         "valor": 30000,
         "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
         "tipo": "BOLETA",
@@ -4059,23 +4063,23 @@ identificacion del cliente
             "domingo": null
           }
         ],
-        "activacionDesactivacionAutomatica": true
+        "activacionDesactivacionAutomatica": false
       },
       "categoriaEdad": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Categoria de edad A",
         "edadInicial": 8,
         "edadFinal": 60
       },
       "categoriaEstatura": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Categoria de estatura A",
         "estaturaCmMin": 120,
@@ -4084,27 +4088,27 @@ identificacion del cliente
       "hikcentralPrivilegeGroupId": "1"
     }
   ],
-  "number": 0,
   "sort": {
     "empty": true,
-    "sorted": true,
-    "unsorted": true
+    "unsorted": true,
+    "sorted": true
   },
   "first": true,
   "pageable": {
     "offset": 0,
     "sort": {
       "empty": true,
-      "sorted": true,
-      "unsorted": true
+      "unsorted": true,
+      "sorted": true
     },
-    "pageNumber": 0,
-    "pageSize": 0,
+    "paged": true,
     "unpaged": true,
-    "paged": true
+    "pageSize": 0,
+    "pageNumber": 0
   },
-  "numberOfElements": 0,
   "last": true,
+  "numberOfElements": 0,
+  "number": 0,
   "empty": true
 }
 
@@ -4118,12 +4122,12 @@ identificacion del cliente
 |totalElements|integer(int64)|false|none||none|
 |size|integer(int32)|false|none||none|
 |content|[[TipoBoleta](#schematipoboleta)]|false|none||[tipo de boleta]|
-|number|integer(int32)|false|none||none|
 |sort|[SortObject](#schemasortobject)|false|none||none|
 |first|boolean|false|none||none|
 |pageable|[PageableObject](#schemapageableobject)|false|none||none|
-|numberOfElements|integer(int32)|false|none||none|
 |last|boolean|false|none||none|
+|numberOfElements|integer(int32)|false|none||none|
+|number|integer(int32)|false|none||none|
 |empty|boolean|false|none||none|
 
 <h2 id="tocS_TipoBoleta">TipoBoleta</h2>
@@ -4135,40 +4139,40 @@ identificacion del cliente
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "producto": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-    "codigo": "string",
+    "codigo": "111555",
     "nombre": "Producto A",
     "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "valorVariable": true,
+    "valorVariable": false,
     "valor": 30000,
     "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
     "tipo": "BOLETA",
     "productosCombo": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "producto": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
-          "codigo": "string",
+          "codigo": "[",
           "nombre": "[",
           "descripcion": "[",
-          "valorVariable": true,
+          "valorVariable": "[",
           "valor": "[",
           "imagenId": "[",
           "tipo": "[",
@@ -4182,9 +4186,9 @@ identificacion del cliente
           "excepcionesDiasSemana": [
             null
           ],
-          "activacionDesactivacionAutomatica": true
+          "activacionDesactivacionAutomatica": "["
         },
-        "cantidad": 0
+        "cantidad": 1
       }
     ],
     "ventaFechaInicio": "26-04-2024",
@@ -4193,34 +4197,34 @@ identificacion del cliente
     "consumoFechaFin": "26-04-2024",
     "excepcionesDiasSemana": [
       {
-        "id": 0,
+        "id": 1,
         "tipo": "VENTA",
-        "lunes": true,
-        "martes": true,
-        "miercoles": true,
-        "jueves": true,
-        "viernes": true,
-        "sabado": true,
-        "domingo": true
+        "lunes": false,
+        "martes": false,
+        "miercoles": false,
+        "jueves": false,
+        "viernes": false,
+        "sabado": false,
+        "domingo": false
       }
     ],
-    "activacionDesactivacionAutomatica": true
+    "activacionDesactivacionAutomatica": false
   },
   "categoriaEdad": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Categoria de edad A",
     "edadInicial": 8,
     "edadFinal": 60
   },
   "categoriaEstatura": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Categoria de estatura A",
     "estaturaCmMin": 120,
@@ -4237,10 +4241,10 @@ tipo de boleta
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id del tipo de boleta|
 |producto|[Producto](#schemaproducto)|false|none||detalle del producto|
 |categoriaEdad|[CategoriaEdad](#schemacategoriaedad)|false|none||categoria de edad|
@@ -4256,10 +4260,10 @@ tipo de boleta
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "nombre": "Categoria de estatura A",
   "estaturaCmMin": 120,
@@ -4274,10 +4278,10 @@ categoria de estatura
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id de la categoria de estatura|
 |nombre|string|false|none||nombre de la categoria de estatura|
 |estaturaCmMin|integer(int32)|false|none||estatura minima de la categoria en centimetros|
@@ -4292,10 +4296,10 @@ categoria de estatura
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "nombre": "Categoria de edad A",
   "edadInicial": 8,
@@ -4310,10 +4314,10 @@ categoria de edad
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id de la categoria de edad|
 |nombre|string|false|none||nombre de la categoria de edad|
 |edadInicial|integer(int32)|false|none||edad inicial de la categoria de edad|
@@ -4333,21 +4337,21 @@ categoria de edad
   "size": 0,
   "content": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "producto": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-        "codigo": "string",
+        "codigo": "111555",
         "nombre": "Producto A",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "valorVariable": true,
+        "valorVariable": false,
         "valor": 30000,
         "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
         "tipo": "BOLETA",
@@ -4378,32 +4382,32 @@ categoria de edad
             "domingo": null
           }
         ],
-        "activacionDesactivacionAutomatica": true
+        "activacionDesactivacionAutomatica": false
       },
       "estado": "ACTIVO"
     }
   ],
-  "number": 0,
   "sort": {
     "empty": true,
-    "sorted": true,
-    "unsorted": true
+    "unsorted": true,
+    "sorted": true
   },
   "first": true,
   "pageable": {
     "offset": 0,
     "sort": {
       "empty": true,
-      "sorted": true,
-      "unsorted": true
+      "unsorted": true,
+      "sorted": true
     },
-    "pageNumber": 0,
-    "pageSize": 0,
+    "paged": true,
     "unpaged": true,
-    "paged": true
+    "pageSize": 0,
+    "pageNumber": 0
   },
-  "numberOfElements": 0,
   "last": true,
+  "numberOfElements": 0,
+  "number": 0,
   "empty": true
 }
 
@@ -4417,12 +4421,12 @@ categoria de edad
 |totalElements|integer(int64)|false|none||none|
 |size|integer(int32)|false|none||none|
 |content|[[TipoCasilla](#schematipocasilla)]|false|none||[tipo de casilla]|
-|number|integer(int32)|false|none||none|
 |sort|[SortObject](#schemasortobject)|false|none||none|
 |first|boolean|false|none||none|
 |pageable|[PageableObject](#schemapageableobject)|false|none||none|
-|numberOfElements|integer(int32)|false|none||none|
 |last|boolean|false|none||none|
+|numberOfElements|integer(int32)|false|none||none|
+|number|integer(int32)|false|none||none|
 |empty|boolean|false|none||none|
 
 <h2 id="tocS_PageTipoServicioParqueadero">PageTipoServicioParqueadero</h2>
@@ -4439,21 +4443,21 @@ categoria de edad
   "size": 0,
   "content": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "producto": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-        "codigo": "string",
+        "codigo": "111555",
         "nombre": "Producto A",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "valorVariable": true,
+        "valorVariable": false,
         "valor": 30000,
         "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
         "tipo": "BOLETA",
@@ -4484,14 +4488,14 @@ categoria de edad
             "domingo": null
           }
         ],
-        "activacionDesactivacionAutomatica": true
+        "activacionDesactivacionAutomatica": false
       },
       "tiposVehiculo": [
         {
-          "fechaCreado": "26-04-2024 12:37:36",
-          "creadoPor": "string",
-          "fechaModificado": "26-04-2024 12:37:36",
-          "modificadoPor": "string",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
           "id": 1,
           "nombre": "AUTOMOVIL"
         }
@@ -4499,27 +4503,27 @@ categoria de edad
       "estado": "ACTIVO"
     }
   ],
-  "number": 0,
   "sort": {
     "empty": true,
-    "sorted": true,
-    "unsorted": true
+    "unsorted": true,
+    "sorted": true
   },
   "first": true,
   "pageable": {
     "offset": 0,
     "sort": {
       "empty": true,
-      "sorted": true,
-      "unsorted": true
+      "unsorted": true,
+      "sorted": true
     },
-    "pageNumber": 0,
-    "pageSize": 0,
+    "paged": true,
     "unpaged": true,
-    "paged": true
+    "pageSize": 0,
+    "pageNumber": 0
   },
-  "numberOfElements": 0,
   "last": true,
+  "numberOfElements": 0,
+  "number": 0,
   "empty": true
 }
 
@@ -4533,12 +4537,12 @@ categoria de edad
 |totalElements|integer(int64)|false|none||none|
 |size|integer(int32)|false|none||none|
 |content|[[TipoServicioParqueadero](#schematiposervicioparqueadero)]|false|none||none|
-|number|integer(int32)|false|none||none|
 |sort|[SortObject](#schemasortobject)|false|none||none|
 |first|boolean|false|none||none|
 |pageable|[PageableObject](#schemapageableobject)|false|none||none|
-|numberOfElements|integer(int32)|false|none||none|
 |last|boolean|false|none||none|
+|numberOfElements|integer(int32)|false|none||none|
+|number|integer(int32)|false|none||none|
 |empty|boolean|false|none||none|
 
 <h2 id="tocS_PageTipoVehiculo">PageTipoVehiculo</h2>
@@ -4555,35 +4559,35 @@ categoria de edad
   "size": 0,
   "content": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "AUTOMOVIL"
     }
   ],
-  "number": 0,
   "sort": {
     "empty": true,
-    "sorted": true,
-    "unsorted": true
+    "unsorted": true,
+    "sorted": true
   },
   "first": true,
   "pageable": {
     "offset": 0,
     "sort": {
       "empty": true,
-      "sorted": true,
-      "unsorted": true
+      "unsorted": true,
+      "sorted": true
     },
-    "pageNumber": 0,
-    "pageSize": 0,
+    "paged": true,
     "unpaged": true,
-    "paged": true
+    "pageSize": 0,
+    "pageNumber": 0
   },
-  "numberOfElements": 0,
   "last": true,
+  "numberOfElements": 0,
+  "number": 0,
   "empty": true
 }
 
@@ -4597,12 +4601,12 @@ categoria de edad
 |totalElements|integer(int64)|false|none||none|
 |size|integer(int32)|false|none||none|
 |content|[[TipoVehiculo](#schematipovehiculo)]|false|none||[tipo de vehiculo]|
-|number|integer(int32)|false|none||none|
 |sort|[SortObject](#schemasortobject)|false|none||none|
 |first|boolean|false|none||none|
 |pageable|[PageableObject](#schemapageableobject)|false|none||none|
-|numberOfElements|integer(int32)|false|none||none|
 |last|boolean|false|none||none|
+|numberOfElements|integer(int32)|false|none||none|
+|number|integer(int32)|false|none||none|
 |empty|boolean|false|none||none|
 
 <h2 id="tocS_PageVenta">PageVenta</h2>
@@ -4619,17 +4623,17 @@ categoria de edad
   "size": 0,
   "content": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "reservaId": "e4b3b3b3-4b3b-4b3b-4b3b-4b3b4b3b4b3b",
       "cliente": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "identificacion": {
           "tipo": "[",
           "numero": "["
@@ -4648,17 +4652,17 @@ categoria de edad
       },
       "registroTaquillaId": "b3b3b3b3-4b3b-4b3b-4b3b-4b3b4b3b4b3b",
       "reciboTaquilla": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "numero": 0,
         "ultimoRegistroImpresion": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": 0,
           "tipoImpresion": "[",
           "impresora": {},
@@ -4669,10 +4673,10 @@ categoria de edad
       },
       "recepcionPago": "TAQUILLA",
       "detallesVentaProductos": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "clienteTipoIdentificacion": "CC",
         "clienteNumeroIdentificacion": "1111222333",
@@ -4693,9 +4697,9 @@ categoria de edad
         "reservaComboId": "b5015fcd-c071-4677-a321-3ff1e45a389a",
         "descuento": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "tiposProducto": [
@@ -4722,17 +4726,17 @@ categoria de edad
         "reservaFecha": "26-04-2024"
       },
       "transaccionesPago": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "recepcionPago": "TAQUILLA",
         "metodoPago": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "cuentaDestino": "[",
@@ -4746,9 +4750,9 @@ categoria de edad
         "valor": 50000,
         "transaccionTaquilla": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "reservaId": "dd36d635-3836-499b-b9e8-a21f7b8f8d99",
           "metodoPago": {},
@@ -4758,14 +4762,14 @@ categoria de edad
           "registroTaquillaId": "aded13d6-1970-4003-aa21-1f29fc5692a9",
           "cambioEfectivo": {},
           "reciboTaquillaNumero": 0,
-          "taquillaId": 0,
-          "taquillaNombre": "string"
+          "taquillaNombre": "string",
+          "taquillaId": 0
         },
         "transaccionPasarela": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "reservaId": "[",
           "tipoIdentificacionCliente": "[",
@@ -4780,9 +4784,9 @@ categoria de edad
         },
         "transaccionParqueadero": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "metodoPago": {},
           "valor": "[",
@@ -4795,9 +4799,9 @@ categoria de edad
         },
         "transaccionPartner": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "partnerId": "bf408d53-df49-40a6-8455-a34bd4360901",
           "reservaId": "[",
@@ -4811,19 +4815,54 @@ categoria de edad
       "valorSinDescuento": 100000,
       "valorPagoTotal": 100000,
       "canal": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Canal A"
       },
+      "facturaVentaNumero": 1,
+      "reservaDescuento": {
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
+        "id": "6ae369b6-847e-446a-a096-06e589c63db7",
+        "nombre": "Descuento A",
+        "tiposProducto": [
+          {
+            "fechaCreado": null,
+            "creadoPor": null,
+            "fechaModificado": null,
+            "modificadoPor": null,
+            "tipoProducto": null,
+            "cantidadMax": null
+          }
+        ],
+        "aplicarConCodigo": true,
+        "codigo": "D1AHF524A0",
+        "aplicarConVigencia": true,
+        "vigenciaInicio": "26-04-2024 13:55:45",
+        "vigenciaFin": "26-04-2024 13:55:45",
+        "tipo": "PORCENTAJE",
+        "valor": 20,
+        "consumoMax": 100,
+        "consumoMaxCliente": 1,
+        "consumo": 5,
+        "estado": "ACTIVO",
+        "clientesObjetivo": true,
+        "clientesCompraronEnFechas": true,
+        "ccefFechaInicio": "26-04-2024 13:55:45",
+        "ccefFechaFin": "26-04-2024 13:55:45",
+        "clientesEspecificos": false
+      },
       "reservaFecha": "26-04-2024",
       "taquilla": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Taquilla 1",
         "conteoRecibos": 0,
@@ -4844,65 +4883,30 @@ categoria de edad
             "tipoImpresora": null
           }
         ]
-      },
-      "facturaVentaNumero": 1,
-      "reservaDescuento": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
-        "id": "6ae369b6-847e-446a-a096-06e589c63db7",
-        "nombre": "Descuento A",
-        "tiposProducto": [
-          {
-            "fechaCreado": null,
-            "creadoPor": null,
-            "fechaModificado": null,
-            "modificadoPor": null,
-            "tipoProducto": null,
-            "cantidadMax": null
-          }
-        ],
-        "aplicarConCodigo": true,
-        "codigo": "D1AHF524A0",
-        "aplicarConVigencia": true,
-        "vigenciaInicio": "26-04-2024 12:37:36",
-        "vigenciaFin": "26-04-2024 12:37:36",
-        "tipo": "PORCENTAJE",
-        "valor": 20,
-        "consumoMax": 100,
-        "consumoMaxCliente": 1,
-        "consumo": 5,
-        "estado": "ACTIVO",
-        "clientesObjetivo": true,
-        "clientesCompraronEnFechas": true,
-        "ccefFechaInicio": "26-04-2024 12:37:36",
-        "ccefFechaFin": "26-04-2024 12:37:36",
-        "clientesEspecificos": false
       }
     }
   ],
-  "number": 0,
   "sort": {
     "empty": true,
-    "sorted": true,
-    "unsorted": true
+    "unsorted": true,
+    "sorted": true
   },
   "first": true,
   "pageable": {
     "offset": 0,
     "sort": {
       "empty": true,
-      "sorted": true,
-      "unsorted": true
+      "unsorted": true,
+      "sorted": true
     },
-    "pageNumber": 0,
-    "pageSize": 0,
+    "paged": true,
     "unpaged": true,
-    "paged": true
+    "pageSize": 0,
+    "pageNumber": 0
   },
-  "numberOfElements": 0,
   "last": true,
+  "numberOfElements": 0,
+  "number": 0,
   "empty": true
 }
 
@@ -4916,12 +4920,12 @@ categoria de edad
 |totalElements|integer(int64)|false|none||none|
 |size|integer(int32)|false|none||none|
 |content|[[Venta](#schemaventa)]|false|none||none|
-|number|integer(int32)|false|none||none|
 |sort|[SortObject](#schemasortobject)|false|none||none|
 |first|boolean|false|none||none|
 |pageable|[PageableObject](#schemapageableobject)|false|none||none|
-|numberOfElements|integer(int32)|false|none||none|
 |last|boolean|false|none||none|
+|numberOfElements|integer(int32)|false|none||none|
+|number|integer(int32)|false|none||none|
 |empty|boolean|false|none||none|
 
 <h2 id="tocS_Venta">Venta</h2>
@@ -4933,17 +4937,17 @@ categoria de edad
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "reservaId": "e4b3b3b3-4b3b-4b3b-4b3b-4b3b4b3b4b3b",
   "cliente": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "identificacion": {
       "tipo": "CC",
       "numero": "1111111111"
@@ -4962,24 +4966,24 @@ categoria de edad
   },
   "registroTaquillaId": "b3b3b3b3-4b3b-4b3b-4b3b-4b3b4b3b4b3b",
   "reciboTaquilla": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 0,
     "numero": 0,
     "ultimoRegistroImpresion": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 0,
       "tipoImpresion": "MANILLA",
       "impresora": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "nombre": "string",
         "direccionIp": "string",
@@ -4996,10 +5000,10 @@ categoria de edad
   },
   "recepcionPago": "TAQUILLA",
   "detallesVentaProductos": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 0,
     "clienteTipoIdentificacion": "CC",
     "clienteNumeroIdentificacion": "1111222333",
@@ -5019,18 +5023,18 @@ categoria de edad
     "reservaServicioAdicionalId": "e2db60eb-fe50-40b8-8bf7-7fd2f4953292",
     "reservaComboId": "b5015fcd-c071-4677-a321-3ff1e45a389a",
     "descuento": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "6ae369b6-847e-446a-a096-06e589c63db7",
       "nombre": "Descuento A",
       "tiposProducto": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "tipoProducto": "[",
           "cantidadMax": 0
         }
@@ -5038,8 +5042,8 @@ categoria de edad
       "aplicarConCodigo": true,
       "codigo": "D1AHF524A0",
       "aplicarConVigencia": true,
-      "vigenciaInicio": "26-04-2024 12:37:36",
-      "vigenciaFin": "26-04-2024 12:37:36",
+      "vigenciaInicio": "26-04-2024 13:55:45",
+      "vigenciaFin": "26-04-2024 13:55:45",
       "tipo": "PORCENTAJE",
       "valor": 20,
       "consumoMax": 100,
@@ -5048,25 +5052,25 @@ categoria de edad
       "estado": "ACTIVO",
       "clientesObjetivo": true,
       "clientesCompraronEnFechas": true,
-      "ccefFechaInicio": "26-04-2024 12:37:36",
-      "ccefFechaFin": "26-04-2024 12:37:36",
+      "ccefFechaInicio": "26-04-2024 13:55:45",
+      "ccefFechaFin": "26-04-2024 13:55:45",
       "clientesEspecificos": false
     },
     "estadoPago": "APROBADO",
     "reservaFecha": "26-04-2024"
   },
   "transaccionesPago": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 0,
     "recepcionPago": "TAQUILLA",
     "metodoPago": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "Metodo de pago A",
       "cuentaDestino": "1111444499997777",
@@ -5075,9 +5079,9 @@ categoria de edad
       "recepcionesPago": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": 0,
           "recepcionPago": "[",
           "metodoPago": {}
@@ -5087,17 +5091,17 @@ categoria de edad
     },
     "valor": 50000,
     "transaccionTaquilla": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "b169240e-56b1-4e38-8c50-279c8a04e5aa",
       "reservaId": "dd36d635-3836-499b-b9e8-a21f7b8f8d99",
       "metodoPago": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Metodo de pago A",
         "cuentaDestino": "1111444499997777",
@@ -5113,23 +5117,23 @@ categoria de edad
       "ultimosDigitos": "4488",
       "registroTaquillaId": "aded13d6-1970-4003-aa21-1f29fc5692a9",
       "cambioEfectivo": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
-        "id": 0,
-        "efectivo": 0,
-        "cambio": 0
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
+        "id": 1,
+        "efectivo": 100000,
+        "cambio": 50000
       },
       "reciboTaquillaNumero": 0,
-      "taquillaId": 0,
-      "taquillaNombre": "string"
+      "taquillaNombre": "string",
+      "taquillaId": 0
     },
     "transaccionPasarela": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "1c8356b0e24442b2acc579cf1ae4d8145",
       "reservaId": "755864a6-0c1f-4f32-9c54-7fb38f9dd9b1",
       "tipoIdentificacionCliente": "CC",
@@ -5138,10 +5142,10 @@ categoria de edad
       "origen": "Origen X",
       "ip": "192.168.1.1",
       "metodoPago": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Metodo de pago A",
         "cuentaDestino": "1111444499997777",
@@ -5152,21 +5156,21 @@ categoria de edad
         ],
         "estado": "ACTIVO"
       },
-      "fechaHoraInicio": "26-04-2024 12:37:36",
-      "fechaHoraFin": "26-04-2024 12:37:36",
+      "fechaHoraInicio": "26-04-2024 13:55:45",
+      "fechaHoraFin": "26-04-2024 13:55:45",
       "estado": "EN_PROCESO"
     },
     "transaccionParqueadero": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "b169240e-56b1-4e38-8c50-279c8a04e5aa",
       "metodoPago": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Metodo de pago A",
         "cuentaDestino": "1111444499997777",
@@ -5184,20 +5188,20 @@ categoria de edad
       "placa": "string",
       "fechaParqueo": "26-04-2024",
       "cambioEfectivo": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
-        "id": 0,
-        "efectivo": 0,
-        "cambio": 0
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
+        "id": 1,
+        "efectivo": 100000,
+        "cambio": 50000
       }
     },
     "transaccionPartner": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "b169240e-56b1-4e38-8c50-279c8a04e5aa",
       "partnerId": "bf408d53-df49-40a6-8455-a34bd4360901",
       "reservaId": "755864a6-0c1f-4f32-9c54-7fb38f9dd9b1",
@@ -5211,29 +5215,64 @@ categoria de edad
   "valorSinDescuento": 100000,
   "valorPagoTotal": 100000,
   "canal": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Canal A"
   },
+  "facturaVentaNumero": 1,
+  "reservaDescuento": {
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
+    "id": "6ae369b6-847e-446a-a096-06e589c63db7",
+    "nombre": "Descuento A",
+    "tiposProducto": [
+      {
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
+        "tipoProducto": "BOLETA",
+        "cantidadMax": 0
+      }
+    ],
+    "aplicarConCodigo": true,
+    "codigo": "D1AHF524A0",
+    "aplicarConVigencia": true,
+    "vigenciaInicio": "26-04-2024 13:55:45",
+    "vigenciaFin": "26-04-2024 13:55:45",
+    "tipo": "PORCENTAJE",
+    "valor": 20,
+    "consumoMax": 100,
+    "consumoMaxCliente": 1,
+    "consumo": 5,
+    "estado": "ACTIVO",
+    "clientesObjetivo": true,
+    "clientesCompraronEnFechas": true,
+    "ccefFechaInicio": "26-04-2024 13:55:45",
+    "ccefFechaFin": "26-04-2024 13:55:45",
+    "clientesEspecificos": false
+  },
   "reservaFecha": "26-04-2024",
   "taquilla": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Taquilla 1",
     "conteoRecibos": 0,
     "estado": "ACTIVO",
     "impresoras": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "nombre": "string",
         "direccionIp": "string",
@@ -5244,41 +5283,6 @@ categoria de edad
         "tipoImpresora": "IMPRESORA_MANILLAS"
       }
     ]
-  },
-  "facturaVentaNumero": 1,
-  "reservaDescuento": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
-    "id": "6ae369b6-847e-446a-a096-06e589c63db7",
-    "nombre": "Descuento A",
-    "tiposProducto": [
-      {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
-        "tipoProducto": "BOLETA",
-        "cantidadMax": 0
-      }
-    ],
-    "aplicarConCodigo": true,
-    "codigo": "D1AHF524A0",
-    "aplicarConVigencia": true,
-    "vigenciaInicio": "26-04-2024 12:37:36",
-    "vigenciaFin": "26-04-2024 12:37:36",
-    "tipo": "PORCENTAJE",
-    "valor": 20,
-    "consumoMax": 100,
-    "consumoMaxCliente": 1,
-    "consumo": 5,
-    "estado": "ACTIVO",
-    "clientesObjetivo": true,
-    "clientesCompraronEnFechas": true,
-    "ccefFechaInicio": "26-04-2024 12:37:36",
-    "ccefFechaFin": "26-04-2024 12:37:36",
-    "clientesEspecificos": false
   }
 }
 
@@ -5288,10 +5292,10 @@ categoria de edad
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id de la venta|
 |reservaId|string(uuid)|false|none||id de la reserva asociada a esta venta|
 |cliente|[Cliente](#schemacliente)|false|none||cliente asociado con esta reserva|
@@ -5303,10 +5307,10 @@ categoria de edad
 |valorSinDescuento|number(double)|false|none||valor total de la venta sin descuento|
 |valorPagoTotal|number(double)|false|none||valor total pagado en la venta|
 |canal|[Canal](#schemacanal)|false|none||canal asociado con esta reserva|
-|reservaFecha|string|false|none||fecha la reserva asociada a esta venta|
-|taquilla|[Taquilla](#schemataquilla)|false|none||none|
 |facturaVentaNumero|integer(int64)|false|none||numero de la factura de venta asociada a esta venta|
 |reservaDescuento|[Descuento](#schemadescuento)|false|none||descuento asociado con esta reserva|
+|reservaFecha|string|false|none||fecha la reserva asociada a esta venta|
+|taquilla|[Taquilla](#schemataquilla)|false|none||none|
 
 #### Enum
 
@@ -5326,20 +5330,20 @@ categoria de edad
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "nombre": "Taquilla 1",
   "conteoRecibos": 0,
   "estado": "ACTIVO",
   "impresoras": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 0,
       "nombre": "string",
       "direccionIp": "string",
@@ -5358,10 +5362,10 @@ categoria de edad
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id de la taquilla|
 |nombre|string|false|none||nombre de la taquilla|
 |conteoRecibos|integer(int64)|false|none||none|
@@ -5384,10 +5388,10 @@ categoria de edad
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 0,
   "nombre": "string",
   "direccionIp": "string",
@@ -5406,10 +5410,10 @@ impresoras asignadas a una taquilla
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||none|
 |nombre|string|false|none||none|
 |direccionIp|string|false|none||none|
@@ -5442,17 +5446,17 @@ impresoras asignadas a una taquilla
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 0,
   "recepcionPago": "TAQUILLA",
   "metodoPago": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Metodo de pago A",
     "cuentaDestino": "1111444499997777",
@@ -5460,17 +5464,17 @@ impresoras asignadas a una taquilla
     "requiereDatosAutorizacion": false,
     "recepcionesPago": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "recepcionPago": "TAQUILLA",
         "metodoPago": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "cuentaDestino": "[",
@@ -5487,17 +5491,17 @@ impresoras asignadas a una taquilla
   },
   "valor": 50000,
   "transaccionTaquilla": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "b169240e-56b1-4e38-8c50-279c8a04e5aa",
     "reservaId": "dd36d635-3836-499b-b9e8-a21f7b8f8d99",
     "metodoPago": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "Metodo de pago A",
       "cuentaDestino": "1111444499997777",
@@ -5506,9 +5510,9 @@ impresoras asignadas a una taquilla
       "recepcionesPago": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": 0,
           "recepcionPago": "[",
           "metodoPago": {}
@@ -5521,23 +5525,23 @@ impresoras asignadas a una taquilla
     "ultimosDigitos": "4488",
     "registroTaquillaId": "aded13d6-1970-4003-aa21-1f29fc5692a9",
     "cambioEfectivo": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
-      "id": 0,
-      "efectivo": 0,
-      "cambio": 0
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
+      "id": 1,
+      "efectivo": 100000,
+      "cambio": 50000
     },
     "reciboTaquillaNumero": 0,
-    "taquillaId": 0,
-    "taquillaNombre": "string"
+    "taquillaNombre": "string",
+    "taquillaId": 0
   },
   "transaccionPasarela": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "1c8356b0e24442b2acc579cf1ae4d8145",
     "reservaId": "755864a6-0c1f-4f32-9c54-7fb38f9dd9b1",
     "tipoIdentificacionCliente": "CC",
@@ -5546,10 +5550,10 @@ impresoras asignadas a una taquilla
     "origen": "Origen X",
     "ip": "192.168.1.1",
     "metodoPago": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "Metodo de pago A",
       "cuentaDestino": "1111444499997777",
@@ -5558,9 +5562,9 @@ impresoras asignadas a una taquilla
       "recepcionesPago": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": 0,
           "recepcionPago": "[",
           "metodoPago": {}
@@ -5568,21 +5572,21 @@ impresoras asignadas a una taquilla
       ],
       "estado": "ACTIVO"
     },
-    "fechaHoraInicio": "26-04-2024 12:37:36",
-    "fechaHoraFin": "26-04-2024 12:37:36",
+    "fechaHoraInicio": "26-04-2024 13:55:45",
+    "fechaHoraFin": "26-04-2024 13:55:45",
     "estado": "EN_PROCESO"
   },
   "transaccionParqueadero": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "b169240e-56b1-4e38-8c50-279c8a04e5aa",
     "metodoPago": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "Metodo de pago A",
       "cuentaDestino": "1111444499997777",
@@ -5591,9 +5595,9 @@ impresoras asignadas a una taquilla
       "recepcionesPago": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": 0,
           "recepcionPago": "[",
           "metodoPago": {}
@@ -5608,20 +5612,20 @@ impresoras asignadas a una taquilla
     "placa": "string",
     "fechaParqueo": "26-04-2024",
     "cambioEfectivo": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
-      "id": 0,
-      "efectivo": 0,
-      "cambio": 0
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
+      "id": 1,
+      "efectivo": 100000,
+      "cambio": 50000
     }
   },
   "transaccionPartner": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "b169240e-56b1-4e38-8c50-279c8a04e5aa",
     "partnerId": "bf408d53-df49-40a6-8455-a34bd4360901",
     "reservaId": "755864a6-0c1f-4f32-9c54-7fb38f9dd9b1",
@@ -5641,10 +5645,10 @@ detalles de transacciones de pago en la venta
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||none|
 |recepcionPago|string|false|none||none|
 |metodoPago|[MetodoPago](#schemametodopago)|false|none||none|
@@ -5672,10 +5676,10 @@ detalles de transacciones de pago en la venta
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "b169240e-56b1-4e38-8c50-279c8a04e5aa",
   "partnerId": "bf408d53-df49-40a6-8455-a34bd4360901",
   "reservaId": "755864a6-0c1f-4f32-9c54-7fb38f9dd9b1",
@@ -5692,10 +5696,10 @@ detalles de transacciones de pago en la venta
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|string(uuid)|false|none||id del pago|
 |partnerId|string(uuid)|false|none||none|
 |reservaId|string(uuid)|false|none||id de la reserva asociada a esta transaccion|
@@ -5726,16 +5730,16 @@ detalles de transacciones de pago en la venta
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "b169240e-56b1-4e38-8c50-279c8a04e5aa",
   "metodoPago": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Metodo de pago A",
     "cuentaDestino": "1111444499997777",
@@ -5743,17 +5747,17 @@ detalles de transacciones de pago en la venta
     "requiereDatosAutorizacion": false,
     "recepcionesPago": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "recepcionPago": "TAQUILLA",
         "metodoPago": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "cuentaDestino": "[",
@@ -5775,13 +5779,13 @@ detalles de transacciones de pago en la venta
   "placa": "string",
   "fechaParqueo": "26-04-2024",
   "cambioEfectivo": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
-    "id": 0,
-    "efectivo": 0,
-    "cambio": 0
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
+    "id": 1,
+    "efectivo": 100000,
+    "cambio": 50000
   }
 }
 
@@ -5791,10 +5795,10 @@ detalles de transacciones de pago en la venta
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|string(uuid)|false|none||id del pago|
 |metodoPago|[MetodoPago](#schemametodopago)|false|none||none|
 |valor|number(double)|false|none||valor del pago|
@@ -5814,13 +5818,13 @@ detalles de transacciones de pago en la venta
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
-  "id": 0,
-  "efectivo": 0,
-  "cambio": 0
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
+  "id": 1,
+  "efectivo": 100000,
+  "cambio": 50000
 }
 
 ```
@@ -5829,13 +5833,13 @@ detalles de transacciones de pago en la venta
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
-|id|integer(int64)|false|none||none|
-|efectivo|number(double)|false|none||none|
-|cambio|number(double)|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
+|id|integer(int64)|false|none||id del cambio de efectivo|
+|efectivo|number(double)|false|none||efectivo entregado por el cliente|
+|cambio|number(double)|false|none||cambio entregado al cliente|
 
 <h2 id="tocS_TransaccionPasarela">TransaccionPasarela</h2>
 
@@ -5846,10 +5850,10 @@ detalles de transacciones de pago en la venta
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "1c8356b0e24442b2acc579cf1ae4d8145",
   "reservaId": "755864a6-0c1f-4f32-9c54-7fb38f9dd9b1",
   "tipoIdentificacionCliente": "CC",
@@ -5858,10 +5862,10 @@ detalles de transacciones de pago en la venta
   "origen": "Origen X",
   "ip": "192.168.1.1",
   "metodoPago": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Metodo de pago A",
     "cuentaDestino": "1111444499997777",
@@ -5869,17 +5873,17 @@ detalles de transacciones de pago en la venta
     "requiereDatosAutorizacion": false,
     "recepcionesPago": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "recepcionPago": "TAQUILLA",
         "metodoPago": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "cuentaDestino": "[",
@@ -5894,8 +5898,8 @@ detalles de transacciones de pago en la venta
     ],
     "estado": "ACTIVO"
   },
-  "fechaHoraInicio": "26-04-2024 12:37:36",
-  "fechaHoraFin": "26-04-2024 12:37:36",
+  "fechaHoraInicio": "26-04-2024 13:55:45",
+  "fechaHoraFin": "26-04-2024 13:55:45",
   "estado": "EN_PROCESO"
 }
 
@@ -5905,10 +5909,10 @@ detalles de transacciones de pago en la venta
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|string|false|none||id de la transaccion de pago|
 |reservaId|string(uuid)|false|none||id de la reserva asociada a esta transaccion|
 |tipoIdentificacionCliente|string|false|none||tipo de identificacion del cliente|
@@ -5946,17 +5950,17 @@ detalles de transacciones de pago en la venta
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "b169240e-56b1-4e38-8c50-279c8a04e5aa",
   "reservaId": "dd36d635-3836-499b-b9e8-a21f7b8f8d99",
   "metodoPago": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Metodo de pago A",
     "cuentaDestino": "1111444499997777",
@@ -5964,17 +5968,17 @@ detalles de transacciones de pago en la venta
     "requiereDatosAutorizacion": false,
     "recepcionesPago": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "recepcionPago": "TAQUILLA",
         "metodoPago": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "cuentaDestino": "[",
@@ -5994,17 +5998,17 @@ detalles de transacciones de pago en la venta
   "ultimosDigitos": "4488",
   "registroTaquillaId": "aded13d6-1970-4003-aa21-1f29fc5692a9",
   "cambioEfectivo": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
-    "id": 0,
-    "efectivo": 0,
-    "cambio": 0
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
+    "id": 1,
+    "efectivo": 100000,
+    "cambio": 50000
   },
   "reciboTaquillaNumero": 0,
-  "taquillaId": 0,
-  "taquillaNombre": "string"
+  "taquillaNombre": "string",
+  "taquillaId": 0
 }
 
 ```
@@ -6013,10 +6017,10 @@ detalles de transacciones de pago en la venta
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|string(uuid)|false|none||id del pago|
 |reservaId|string(uuid)|false|none||none|
 |metodoPago|[MetodoPago](#schemametodopago)|false|none||none|
@@ -6026,8 +6030,8 @@ detalles de transacciones de pago en la venta
 |registroTaquillaId|string(uuid)|false|none||none|
 |cambioEfectivo|[CambioEfectivo](#schemacambioefectivo)|false|none||none|
 |reciboTaquillaNumero|integer(int64)|false|none||none|
-|taquillaId|integer(int64)|false|none||none|
 |taquillaNombre|string|false|none||none|
+|taquillaId|integer(int64)|false|none||none|
 
 <h2 id="tocS_MetodoPago">MetodoPago</h2>
 
@@ -6038,10 +6042,10 @@ detalles de transacciones de pago en la venta
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "nombre": "Metodo de pago A",
   "cuentaDestino": "1111444499997777",
@@ -6049,17 +6053,17 @@ detalles de transacciones de pago en la venta
   "requiereDatosAutorizacion": false,
   "recepcionesPago": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 0,
       "recepcionPago": "TAQUILLA",
       "metodoPago": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Metodo de pago A",
         "cuentaDestino": "1111444499997777",
@@ -6089,10 +6093,10 @@ detalles de transacciones de pago en la venta
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id del metodo de pago|
 |nombre|string|false|none||nombre del metodo de pago|
 |cuentaDestino|string|false|none||cuenta destino a la cual se transfieren los pago realizados|
@@ -6120,17 +6124,17 @@ detalles de transacciones de pago en la venta
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 0,
   "recepcionPago": "TAQUILLA",
   "metodoPago": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Metodo de pago A",
     "cuentaDestino": "1111444499997777",
@@ -6138,17 +6142,17 @@ detalles de transacciones de pago en la venta
     "requiereDatosAutorizacion": false,
     "recepcionesPago": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 0,
         "recepcionPago": "TAQUILLA",
         "metodoPago": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "cuentaDestino": "[",
@@ -6171,10 +6175,10 @@ detalles de transacciones de pago en la venta
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||none|
 |recepcionPago|string|false|none||none|
 |metodoPago|[MetodoPago](#schemametodopago)|false|none||none|
@@ -6197,10 +6201,10 @@ detalles de transacciones de pago en la venta
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 0,
   "clienteTipoIdentificacion": "CC",
   "clienteNumeroIdentificacion": "1111222333",
@@ -6220,18 +6224,18 @@ detalles de transacciones de pago en la venta
   "reservaServicioAdicionalId": "e2db60eb-fe50-40b8-8bf7-7fd2f4953292",
   "reservaComboId": "b5015fcd-c071-4677-a321-3ff1e45a389a",
   "descuento": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "6ae369b6-847e-446a-a096-06e589c63db7",
     "nombre": "Descuento A",
     "tiposProducto": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "tipoProducto": "BOLETA",
         "cantidadMax": 0
       }
@@ -6239,8 +6243,8 @@ detalles de transacciones de pago en la venta
     "aplicarConCodigo": true,
     "codigo": "D1AHF524A0",
     "aplicarConVigencia": true,
-    "vigenciaInicio": "26-04-2024 12:37:36",
-    "vigenciaFin": "26-04-2024 12:37:36",
+    "vigenciaInicio": "26-04-2024 13:55:45",
+    "vigenciaFin": "26-04-2024 13:55:45",
     "tipo": "PORCENTAJE",
     "valor": 20,
     "consumoMax": 100,
@@ -6249,8 +6253,8 @@ detalles de transacciones de pago en la venta
     "estado": "ACTIVO",
     "clientesObjetivo": true,
     "clientesCompraronEnFechas": true,
-    "ccefFechaInicio": "26-04-2024 12:37:36",
-    "ccefFechaFin": "26-04-2024 12:37:36",
+    "ccefFechaInicio": "26-04-2024 13:55:45",
+    "ccefFechaFin": "26-04-2024 13:55:45",
     "clientesEspecificos": false
   },
   "estadoPago": "APROBADO",
@@ -6265,10 +6269,10 @@ detalles de productos vendidos en la venta
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||none|
 |clienteTipoIdentificacion|string|false|none||tipo de identificacion del cliente|
 |clienteNumeroIdentificacion|string|false|none||numero de identificacion del cliente|
@@ -6320,24 +6324,24 @@ detalles de productos vendidos en la venta
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 0,
   "numero": 0,
   "ultimoRegistroImpresion": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 0,
     "tipoImpresion": "MANILLA",
     "impresora": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 0,
       "nombre": "string",
       "direccionIp": "string",
@@ -6361,10 +6365,10 @@ recibo de taquilla asociado a esta venta
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||none|
 |numero|integer(int64)|false|none||none|
 |ultimoRegistroImpresion|[RegistroImpresion](#schemaregistroimpresion)|false|none||none|
@@ -6378,17 +6382,17 @@ recibo de taquilla asociado a esta venta
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 0,
   "tipoImpresion": "MANILLA",
   "impresora": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 0,
     "nombre": "string",
     "direccionIp": "string",
@@ -6409,10 +6413,10 @@ recibo de taquilla asociado a esta venta
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||none|
 |tipoImpresion|string|false|none||tipo de impresion|
 |impresora|[Impresora](#schemaimpresora)|false|none||impresoras asignadas a una taquilla|
@@ -6461,36 +6465,36 @@ recibo de taquilla asociado a esta venta
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "e3617a05-6e65-433f-b0db-c2a8747f3314",
   "nombre": "Partner 1",
   "boletasMax": 0,
   "boletasRest": 0,
   "account": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": "23d4c71f-dc56-4d1e-b2b0-d64110d778ca",
     "name": "admin",
     "email": "example@email.com",
     "role": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "name": "ADMIN",
       "urlInicio": "/index.html",
       "menus": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "role": {},
           "menu": {}
         }
@@ -6500,10 +6504,10 @@ recibo de taquilla asociado a esta venta
     "estado": "ACTIVO"
   },
   "canal": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Canal A"
   },
@@ -6512,21 +6516,21 @@ recibo de taquilla asociado a esta venta
       "id": 1,
       "nombre": "TARIFA 1",
       "tipoBoleta": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "producto": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
-          "codigo": "string",
+          "codigo": "[",
           "nombre": "[",
           "descripcion": "[",
-          "valorVariable": true,
+          "valorVariable": "[",
           "valor": "[",
           "imagenId": "[",
           "tipo": "[",
@@ -6540,13 +6544,13 @@ recibo de taquilla asociado a esta venta
           "excepcionesDiasSemana": [
             null
           ],
-          "activacionDesactivacionAutomatica": true
+          "activacionDesactivacionAutomatica": "["
         },
         "categoriaEdad": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "edadInicial": "[",
@@ -6554,9 +6558,9 @@ recibo de taquilla asociado a esta venta
         },
         "categoriaEstatura": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "estaturaCmMin": "[",
@@ -6575,15 +6579,15 @@ recibo de taquilla asociado a esta venta
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|string(uuid)|false|none||id del partner|
 |nombre|string|false|none||nombre del partner|
 |boletasMax|integer(int64)|false|none||numero de boletas maximo que puede vender el partner|
 |boletasRest|integer(int64)|false|none||numero de boletas restantes que puede vender el partner|
-|account|[Account](#schemaaccount)|false|none||none|
+|account|[Account](#schemaaccount)|false|none||Cuenta a la que pertenece la empresa|
 |canal|[Canal](#schemacanal)|false|none||canal asociado con esta reserva|
 |tarifas|[[PartnerTarifa](#schemapartnertarifa)]|false|none||[tarifas de boletas asociadas a este partner]|
 |estado|string|false|none||none|
@@ -6607,32 +6611,32 @@ recibo de taquilla asociado a esta venta
   "id": 1,
   "nombre": "TARIFA 1",
   "tipoBoleta": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "producto": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
-      "codigo": "string",
+      "codigo": "111555",
       "nombre": "Producto A",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "valorVariable": true,
+      "valorVariable": false,
       "valor": 30000,
       "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
       "tipo": "BOLETA",
       "productosCombo": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "producto": {},
-          "cantidad": 0
+          "cantidad": "["
         }
       ],
       "ventaFechaInicio": "26-04-2024",
@@ -6641,34 +6645,34 @@ recibo de taquilla asociado a esta venta
       "consumoFechaFin": "26-04-2024",
       "excepcionesDiasSemana": [
         {
-          "id": 0,
+          "id": "[",
           "tipo": "[",
-          "lunes": true,
-          "martes": true,
-          "miercoles": true,
-          "jueves": true,
-          "viernes": true,
-          "sabado": true,
-          "domingo": true
+          "lunes": "[",
+          "martes": "[",
+          "miercoles": "[",
+          "jueves": "[",
+          "viernes": "[",
+          "sabado": "[",
+          "domingo": "["
         }
       ],
-      "activacionDesactivacionAutomatica": true
+      "activacionDesactivacionAutomatica": false
     },
     "categoriaEdad": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "Categoria de edad A",
       "edadInicial": 8,
       "edadFinal": 60
     },
     "categoriaEstatura": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "Categoria de estatura A",
       "estaturaCmMin": 120,
@@ -6699,32 +6703,32 @@ tarifas de boletas asociadas a este partner
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": "23d4c71f-dc56-4d1e-b2b0-d64110d778ca",
   "name": "admin",
   "email": "example@email.com",
   "role": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "name": "ADMIN",
     "urlInicio": "/index.html",
     "menus": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "role": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "name": "[",
           "urlInicio": "[",
@@ -6735,9 +6739,9 @@ tarifas de boletas asociadas a este partner
         },
         "menu": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "menuInfo": {},
@@ -6756,14 +6760,16 @@ tarifas de boletas asociadas a este partner
 
 ```
 
+Cuenta a la que pertenece la empresa
+
 ### Attribute
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|string(uuid)|false|none||id del usuario|
 |name|string|false|none||nombre del usuario|
 |email|string|false|none||direccion de correo electronico del usuario|
@@ -6786,24 +6792,24 @@ tarifas de boletas asociadas a este partner
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "name": "ADMIN",
   "urlInicio": "/index.html",
   "menus": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "role": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "name": "ADMIN",
         "urlInicio": "/index.html",
@@ -6820,10 +6826,10 @@ tarifas de boletas asociadas a este partner
         "estado": "ADMIN"
       },
       "menu": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Menu A",
         "menuInfo": {
@@ -6832,9 +6838,9 @@ tarifas de boletas asociadas a este partner
         },
         "menuPadre": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "menuInfo": {},
@@ -6873,10 +6879,10 @@ rol del usuario
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id del rol|
 |name|string|false|none||nombre del rol|
 |urlInicio|string|false|none||url del inicio del rol|
@@ -6899,29 +6905,29 @@ rol del usuario
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "role": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "name": "ADMIN",
     "urlInicio": "/index.html",
     "menus": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "role": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "name": "[",
           "urlInicio": "[",
@@ -6932,9 +6938,9 @@ rol del usuario
         },
         "menu": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "menuInfo": {},
@@ -6949,10 +6955,10 @@ rol del usuario
     "estado": "ADMIN"
   },
   "menu": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Menu A",
     "menuInfo": {
@@ -6960,10 +6966,10 @@ rol del usuario
       "imagenId": "151c0a1d-fccd-4ead-ae4b-f05a26d3779b"
     },
     "menuPadre": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "Menu A",
       "menuInfo": {
@@ -6971,10 +6977,10 @@ rol del usuario
         "imagenId": "151c0a1d-fccd-4ead-ae4b-f05a26d3779b"
       },
       "menuPadre": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Menu A",
         "menuInfo": {
@@ -7001,9 +7007,9 @@ rol del usuario
       "menus": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "menuInfo": {},
@@ -7018,10 +7024,10 @@ rol del usuario
     },
     "menus": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Menu A",
         "menuInfo": {
@@ -7030,9 +7036,9 @@ rol del usuario
         },
         "menuPadre": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "menuInfo": {},
@@ -7071,10 +7077,10 @@ menus asociados con este rol
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |role|[Role](#schemarole)|false|none||rol del usuario|
 |menu|[Menu](#schemamenu)|false|none||none|
 
@@ -7087,10 +7093,10 @@ menus asociados con este rol
 
 ```json
 {
-  "fechaCreado": "26-04-2024 12:37:36",
-  "creadoPor": "string",
-  "fechaModificado": "26-04-2024 12:37:36",
-  "modificadoPor": "string",
+  "fechaCreado": "26-04-2024 13:55:45",
+  "creadoPor": "admin",
+  "fechaModificado": "26-04-2024 13:55:45",
+  "modificadoPor": "admin",
   "id": 1,
   "nombre": "Menu A",
   "menuInfo": {
@@ -7098,10 +7104,10 @@ menus asociados con este rol
     "imagenId": "151c0a1d-fccd-4ead-ae4b-f05a26d3779b"
   },
   "menuPadre": {
-    "fechaCreado": "26-04-2024 12:37:36",
-    "creadoPor": "string",
-    "fechaModificado": "26-04-2024 12:37:36",
-    "modificadoPor": "string",
+    "fechaCreado": "26-04-2024 13:55:45",
+    "creadoPor": "admin",
+    "fechaModificado": "26-04-2024 13:55:45",
+    "modificadoPor": "admin",
     "id": 1,
     "nombre": "Menu A",
     "menuInfo": {
@@ -7109,10 +7115,10 @@ menus asociados con este rol
       "imagenId": "151c0a1d-fccd-4ead-ae4b-f05a26d3779b"
     },
     "menuPadre": {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "Menu A",
       "menuInfo": {
@@ -7120,10 +7126,10 @@ menus asociados con este rol
         "imagenId": "151c0a1d-fccd-4ead-ae4b-f05a26d3779b"
       },
       "menuPadre": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Menu A",
         "menuInfo": {
@@ -7150,9 +7156,9 @@ menus asociados con este rol
       "menus": [
         {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "menuInfo": {},
@@ -7167,10 +7173,10 @@ menus asociados con este rol
     },
     "menus": [
       {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Menu A",
         "menuInfo": {
@@ -7179,9 +7185,9 @@ menus asociados con este rol
         },
         "menuPadre": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "menuInfo": {},
@@ -7212,10 +7218,10 @@ menus asociados con este rol
   },
   "menus": [
     {
-      "fechaCreado": "26-04-2024 12:37:36",
-      "creadoPor": "string",
-      "fechaModificado": "26-04-2024 12:37:36",
-      "modificadoPor": "string",
+      "fechaCreado": "26-04-2024 13:55:45",
+      "creadoPor": "admin",
+      "fechaModificado": "26-04-2024 13:55:45",
+      "modificadoPor": "admin",
       "id": 1,
       "nombre": "Menu A",
       "menuInfo": {
@@ -7223,10 +7229,10 @@ menus asociados con este rol
         "imagenId": "151c0a1d-fccd-4ead-ae4b-f05a26d3779b"
       },
       "menuPadre": {
-        "fechaCreado": "26-04-2024 12:37:36",
-        "creadoPor": "string",
-        "fechaModificado": "26-04-2024 12:37:36",
-        "modificadoPor": "string",
+        "fechaCreado": "26-04-2024 13:55:45",
+        "creadoPor": "admin",
+        "fechaModificado": "26-04-2024 13:55:45",
+        "modificadoPor": "admin",
         "id": 1,
         "nombre": "Menu A",
         "menuInfo": {
@@ -7235,9 +7241,9 @@ menus asociados con este rol
         },
         "menuPadre": {
           "fechaCreado": "[",
-          "creadoPor": "string",
+          "creadoPor": "[",
           "fechaModificado": "[",
-          "modificadoPor": "string",
+          "modificadoPor": "[",
           "id": "[",
           "nombre": "[",
           "menuInfo": {},
@@ -7265,10 +7271,10 @@ menus asociados con este rol
       },
       "menus": [
         {
-          "fechaCreado": "26-04-2024 12:37:36",
-          "creadoPor": "string",
-          "fechaModificado": "26-04-2024 12:37:36",
-          "modificadoPor": "string",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
           "id": 1,
           "nombre": "Menu A",
           "menuInfo": {
@@ -7305,13 +7311,13 @@ menus asociados con este rol
 
 |Name|Type|Required|Restrictions|Title|Description|
 |---|---|---|---|---|---|
-|fechaCreado|string|false|none||none|
-|creadoPor|string|false|none||none|
-|fechaModificado|string|false|none||none|
-|modificadoPor|string|false|none||none|
+|fechaCreado|string|false|none||Fecha de creacion del registro|
+|creadoPor|string|false|none||Usuario que creo el registro|
+|fechaModificado|string|false|none||Fecha de la ultima modificacion del registro|
+|modificadoPor|string|false|none||Usuario que realizo la ultima modificacion del registro|
 |id|integer(int64)|false|none||id del menu|
 |nombre|string|false|none||nombre del menu|
-|menuInfo|[MenuInfo](#schemamenuinfo)|false|none||none|
+|menuInfo|[MenuInfo](#schemamenuinfo)|false|none||informacion del menu|
 |menuPadre|[Menu](#schemamenu)|false|none||none|
 |menus|[[Menu](#schemamenu)]|false|none||none|
 |estado|string|false|none||estado del menu|
@@ -7337,6 +7343,8 @@ menus asociados con este rol
 }
 
 ```
+
+informacion del menu
 
 ### Attribute
 
