@@ -154,12 +154,28 @@ GET /api/partner/partnerInfo
       "urlInicio": "/index.html",
       "menus": [
         {
-          "fechaCreado": "[",
-          "creadoPor": "[",
-          "fechaModificado": "[",
-          "modificadoPor": "[",
-          "role": {},
-          "menu": {}
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
+          "role": "string",
+          "menu": {
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "id": 1,
+            "nombre": "Menu A",
+            "menuInfo": {
+              "url": "/menuA/index.html",
+              "imagenId": "151c0a1d-fccd-4ead-ae4b-f05a26d3779b"
+            },
+            "menuPadre": "string",
+            "menus": [
+              "string"
+            ],
+            "estado": "ACTIVO"
+          }
         }
       ],
       "estado": "ADMIN"
@@ -185,49 +201,66 @@ GET /api/partner/partnerInfo
         "modificadoPor": "admin",
         "id": 1,
         "producto": {
-          "fechaCreado": "[",
-          "creadoPor": "[",
-          "fechaModificado": "[",
-          "modificadoPor": "[",
-          "id": "[",
-          "codigo": "[",
-          "nombre": "[",
-          "descripcion": "[",
-          "valorVariable": "[",
-          "valor": "[",
-          "imagenId": "[",
-          "tipo": "[",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
+          "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
+          "codigo": "111555",
+          "nombre": "Producto A",
+          "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+          "valorVariable": false,
+          "valor": 30000,
+          "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
+          "tipo": "BOLETA",
           "productosCombo": [
-            null
+            {
+              "fechaCreado": "26-04-2024 13:55:45",
+              "creadoPor": "admin",
+              "fechaModificado": "26-04-2024 13:55:45",
+              "modificadoPor": "admin",
+              "producto": "string",
+              "cantidad": 1
+            }
           ],
-          "ventaFechaInicio": "[",
-          "ventaFechaFin": "[",
-          "consumoFechaInicio": "[",
-          "consumoFechaFin": "[",
+          "ventaFechaInicio": "26-04-2024",
+          "ventaFechaFin": "26-04-2024",
+          "consumoFechaInicio": "26-04-2024",
+          "consumoFechaFin": "26-04-2024",
           "excepcionesDiasSemana": [
-            null
+            {
+              "id": 1,
+              "tipo": "VENTA",
+              "lunes": false,
+              "martes": false,
+              "miercoles": false,
+              "jueves": false,
+              "viernes": false,
+              "sabado": false,
+              "domingo": false
+            }
           ],
-          "activacionDesactivacionAutomatica": "["
+          "activacionDesactivacionAutomatica": false
         },
         "categoriaEdad": {
-          "fechaCreado": "[",
-          "creadoPor": "[",
-          "fechaModificado": "[",
-          "modificadoPor": "[",
-          "id": "[",
-          "nombre": "[",
-          "edadInicial": "[",
-          "edadFinal": "["
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
+          "id": 1,
+          "nombre": "Categoria de edad A",
+          "edadInicial": 8,
+          "edadFinal": 60
         },
         "categoriaEstatura": {
-          "fechaCreado": "[",
-          "creadoPor": "[",
-          "fechaModificado": "[",
-          "modificadoPor": "[",
-          "id": "[",
-          "nombre": "[",
-          "estaturaCmMin": "[",
-          "estaturaCmMax": "["
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
+          "id": 1,
+          "nombre": "Categoria de estatura A",
+          "estaturaCmMin": 120,
+          "estaturaCmMax": 180
         },
         "hikcentralPrivilegeGroupId": "1"
       }
@@ -310,8 +343,8 @@ GET /api/partner/buscarVentaPartner
         "fechaModificado": "26-04-2024 13:55:45",
         "modificadoPor": "admin",
         "identificacion": {
-          "tipo": "[",
-          "numero": "["
+          "tipo": "CC",
+          "numero": "1111111111"
         },
         "primerNombre": "Nombre 1",
         "segundoNombre": "Nombre 2",
@@ -334,16 +367,29 @@ GET /api/partner/buscarVentaPartner
         "id": 0,
         "numero": 0,
         "ultimoRegistroImpresion": {
-          "fechaCreado": "[",
-          "creadoPor": "[",
-          "fechaModificado": "[",
-          "modificadoPor": "[",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
           "id": 0,
-          "tipoImpresion": "[",
-          "impresora": {},
+          "tipoImpresion": "MANILLA",
+          "impresora": {
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "id": 0,
+            "nombre": "string",
+            "direccionIp": "string",
+            "estado": "ACTIVO",
+            "marca": "ZEBRA",
+            "referencia": "string",
+            "serial": "string",
+            "tipoImpresora": "IMPRESORA_MANILLAS"
+          },
           "identificador": "string",
-          "estado": "[",
-          "mensajeError": "["
+          "estado": "EXITOSO",
+          "mensajeError": "Error"
         }
       },
       "recepcionPago": "TAQUILLA",
@@ -356,46 +402,53 @@ GET /api/partner/buscarVentaPartner
         "clienteTipoIdentificacion": "CC",
         "clienteNumeroIdentificacion": "1111222333",
         "clienteNombre": "Nombre 1 Nombre 2 Apellido 1 Apellido 2",
-        "reservaId": "dd36d635-3836-499b-b9e8-a21f7b8f8d99",
-        "productoId": "facf4a34-c5cd-4888-bb4d-b65af8ae4dd9",
+        "reservaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "productoId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "productoCodigo": "string",
         "productoTipo": "BOLETA",
         "productoNombre": "string",
         "productoValor": 0,
         "descuentoValor": 0,
         "valor": 0,
-        "boletaId": "1bdd62d6-cfe6-46e0-9d28-6efc9e2d97ee",
-        "reservaCasillaId": "ffa80c2d-a380-4e24-8b51-81cc376fde36",
-        "reservaVehiculoId": "e3e6894b-2f0a-4368-ab7e-d7263f01cea3",
+        "boletaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "reservaCasillaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "reservaVehiculoId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "espacioParqueaderoId": 0,
-        "reservaServicioAdicionalId": "e2db60eb-fe50-40b8-8bf7-7fd2f4953292",
-        "reservaComboId": "b5015fcd-c071-4677-a321-3ff1e45a389a",
+        "reservaServicioAdicionalId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "reservaComboId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "descuento": {
-          "fechaCreado": "[",
-          "creadoPor": "[",
-          "fechaModificado": "[",
-          "modificadoPor": "[",
-          "id": "[",
-          "nombre": "[",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
+          "id": "6ae369b6-847e-446a-a096-06e589c63db7",
+          "nombre": "Descuento A",
           "tiposProducto": [
-            null
+            {
+              "fechaCreado": "26-04-2024 13:55:45",
+              "creadoPor": "admin",
+              "fechaModificado": "26-04-2024 13:55:45",
+              "modificadoPor": "admin",
+              "tipoProducto": "BOLETA",
+              "cantidadMax": 0
+            }
           ],
-          "aplicarConCodigo": "[",
-          "codigo": "[",
-          "aplicarConVigencia": "[",
-          "vigenciaInicio": "[",
-          "vigenciaFin": "[",
-          "tipo": "[",
-          "valor": "[",
-          "consumoMax": "[",
-          "consumoMaxCliente": "[",
-          "consumo": "[",
-          "estado": "[",
-          "clientesObjetivo": "[",
-          "clientesCompraronEnFechas": "[",
-          "ccefFechaInicio": "[",
-          "ccefFechaFin": "[",
-          "clientesEspecificos": "["
+          "aplicarConCodigo": true,
+          "codigo": "D1AHF524A0",
+          "aplicarConVigencia": true,
+          "vigenciaInicio": "26-04-2024 13:55:45",
+          "vigenciaFin": "26-04-2024 13:55:45",
+          "tipo": "PORCENTAJE",
+          "valor": 20,
+          "consumoMax": 100,
+          "consumoMaxCliente": 1,
+          "consumo": 5,
+          "estado": "ACTIVO",
+          "clientesObjetivo": true,
+          "clientesCompraronEnFechas": true,
+          "ccefFechaInicio": "26-04-2024 13:55:45",
+          "ccefFechaFin": "26-04-2024 13:55:45",
+          "clientesEspecificos": false
         },
         "estadoPago": "APROBADO",
         "reservaFecha": "26-04-2024"
@@ -408,81 +461,171 @@ GET /api/partner/buscarVentaPartner
         "id": 0,
         "recepcionPago": "TAQUILLA",
         "metodoPago": {
-          "fechaCreado": "[",
-          "creadoPor": "[",
-          "fechaModificado": "[",
-          "modificadoPor": "[",
-          "id": "[",
-          "nombre": "[",
-          "cuentaDestino": "[",
-          "tipo": "[",
-          "requiereDatosAutorizacion": "[",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
+          "id": 1,
+          "nombre": "Metodo de pago A",
+          "cuentaDestino": "1111444499997777",
+          "tipo": "ELECTRONICO",
+          "requiereDatosAutorizacion": false,
           "recepcionesPago": [
-            null
+            {
+              "fechaCreado": "26-04-2024 13:55:45",
+              "creadoPor": "admin",
+              "fechaModificado": "26-04-2024 13:55:45",
+              "modificadoPor": "admin",
+              "id": 0,
+              "recepcionPago": "TAQUILLA",
+              "metodoPago": "string"
+            }
           ],
-          "estado": "["
+          "estado": "ACTIVO"
         },
         "valor": 50000,
         "transaccionTaquilla": {
-          "fechaCreado": "[",
-          "creadoPor": "[",
-          "fechaModificado": "[",
-          "modificadoPor": "[",
-          "id": "[",
-          "reservaId": "dd36d635-3836-499b-b9e8-a21f7b8f8d99",
-          "metodoPago": {},
-          "valor": "[",
-          "numeroAutorizacion": "[",
-          "ultimosDigitos": "[",
-          "registroTaquillaId": "aded13d6-1970-4003-aa21-1f29fc5692a9",
-          "cambioEfectivo": {},
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
+          "id": "b169240e-56b1-4e38-8c50-279c8a04e5aa",
+          "reservaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "metodoPago": {
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "id": 1,
+            "nombre": "Metodo de pago A",
+            "cuentaDestino": "1111444499997777",
+            "tipo": "ELECTRONICO",
+            "requiereDatosAutorizacion": false,
+            "recepcionesPago": [
+              {
+                "fechaCreado": "26-04-2024 13:55:45",
+                "creadoPor": "admin",
+                "fechaModificado": "26-04-2024 13:55:45",
+                "modificadoPor": "admin",
+                "id": 0,
+                "recepcionPago": "TAQUILLA",
+                "metodoPago": "string"
+              }
+            ],
+            "estado": "ACTIVO"
+          },
+          "valor": 50000,
+          "numeroAutorizacion": "00032325",
+          "ultimosDigitos": "4488",
+          "registroTaquillaId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "cambioEfectivo": {
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "id": 1,
+            "efectivo": 100000,
+            "cambio": 50000
+          },
           "reciboTaquillaNumero": 0,
           "taquillaNombre": "string",
           "taquillaId": 0
         },
         "transaccionPasarela": {
-          "fechaCreado": "[",
-          "creadoPor": "[",
-          "fechaModificado": "[",
-          "modificadoPor": "[",
-          "id": "[",
-          "reservaId": "[",
-          "tipoIdentificacionCliente": "[",
-          "numeroIdentificacionCliente": "[",
-          "valor": "[",
-          "origen": "[",
-          "ip": "[",
-          "metodoPago": {},
-          "fechaHoraInicio": "[",
-          "fechaHoraFin": "[",
-          "estado": "["
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
+          "id": "1c8356b0e24442b2acc579cf1ae4d8145",
+          "reservaId": "755864a6-0c1f-4f32-9c54-7fb38f9dd9b1",
+          "tipoIdentificacionCliente": "CC",
+          "numeroIdentificacionCliente": "1111111111",
+          "valor": 50000,
+          "origen": "Origen X",
+          "ip": "192.168.1.1",
+          "metodoPago": {
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "id": 1,
+            "nombre": "Metodo de pago A",
+            "cuentaDestino": "1111444499997777",
+            "tipo": "ELECTRONICO",
+            "requiereDatosAutorizacion": false,
+            "recepcionesPago": [
+              {
+                "fechaCreado": "26-04-2024 13:55:45",
+                "creadoPor": "admin",
+                "fechaModificado": "26-04-2024 13:55:45",
+                "modificadoPor": "admin",
+                "id": 0,
+                "recepcionPago": "TAQUILLA",
+                "metodoPago": "string"
+              }
+            ],
+            "estado": "ACTIVO"
+          },
+          "fechaHoraInicio": "26-04-2024 13:55:45",
+          "fechaHoraFin": "26-04-2024 13:55:45",
+          "estado": "EN_PROCESO"
         },
         "transaccionParqueadero": {
-          "fechaCreado": "[",
-          "creadoPor": "[",
-          "fechaModificado": "[",
-          "modificadoPor": "[",
-          "id": "[",
-          "metodoPago": {},
-          "valor": "[",
-          "numeroAutorizacion": "[",
-          "ultimosDigitos": "[",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
+          "id": "b169240e-56b1-4e38-8c50-279c8a04e5aa",
+          "metodoPago": {
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "id": 1,
+            "nombre": "Metodo de pago A",
+            "cuentaDestino": "1111444499997777",
+            "tipo": "ELECTRONICO",
+            "requiereDatosAutorizacion": false,
+            "recepcionesPago": [
+              {
+                "fechaCreado": "26-04-2024 13:55:45",
+                "creadoPor": "admin",
+                "fechaModificado": "26-04-2024 13:55:45",
+                "modificadoPor": "admin",
+                "id": 0,
+                "recepcionPago": "TAQUILLA",
+                "metodoPago": "string"
+              }
+            ],
+            "estado": "ACTIVO"
+          },
+          "valor": 50000,
+          "numeroAutorizacion": "00032325",
+          "ultimosDigitos": "4488",
           "zonaParqueaderoId": 0,
           "placa": "string",
-          "fechaParqueo": "[",
-          "cambioEfectivo": {}
+          "fechaParqueo": "26-04-2024",
+          "cambioEfectivo": {
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "id": 1,
+            "efectivo": 100000,
+            "cambio": 50000
+          }
         },
         "transaccionPartner": {
-          "fechaCreado": "[",
-          "creadoPor": "[",
-          "fechaModificado": "[",
-          "modificadoPor": "[",
-          "id": "[",
-          "partnerId": "bf408d53-df49-40a6-8455-a34bd4360901",
-          "reservaId": "[",
-          "tipoIdentificacionCliente": "[",
-          "numeroIdentificacionCliente": "[",
-          "valor": "[",
+          "fechaCreado": "26-04-2024 13:55:45",
+          "creadoPor": "admin",
+          "fechaModificado": "26-04-2024 13:55:45",
+          "modificadoPor": "admin",
+          "id": "b169240e-56b1-4e38-8c50-279c8a04e5aa",
+          "partnerId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "reservaId": "755864a6-0c1f-4f32-9c54-7fb38f9dd9b1",
+          "tipoIdentificacionCliente": "CC",
+          "numeroIdentificacionCliente": "1111111111",
+          "valor": 50000,
           "barcode": "string",
           "orderId": 0
         }
@@ -507,12 +650,12 @@ GET /api/partner/buscarVentaPartner
         "nombre": "Descuento A",
         "tiposProducto": [
           {
-            "fechaCreado": null,
-            "creadoPor": null,
-            "fechaModificado": null,
-            "modificadoPor": null,
-            "tipoProducto": null,
-            "cantidadMax": null
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "tipoProducto": "BOLETA",
+            "cantidadMax": 0
           }
         ],
         "aplicarConCodigo": true,
@@ -544,18 +687,18 @@ GET /api/partner/buscarVentaPartner
         "estado": "ACTIVO",
         "impresoras": [
           {
-            "fechaCreado": null,
-            "creadoPor": null,
-            "fechaModificado": null,
-            "modificadoPor": null,
-            "id": null,
-            "nombre": null,
-            "direccionIp": null,
-            "estado": null,
-            "marca": null,
-            "referencia": null,
-            "serial": null,
-            "tipoImpresora": null
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "id": 0,
+            "nombre": "string",
+            "direccionIp": "string",
+            "estado": "ACTIVO",
+            "marca": "ZEBRA",
+            "referencia": "string",
+            "serial": "string",
+            "tipoImpresora": "IMPRESORA_MANILLAS"
           }
         ]
       }
@@ -703,12 +846,12 @@ GET /api/partner/buscarTipoServicio
         "tipo": "BOLETA",
         "productosCombo": [
           {
-            "fechaCreado": null,
-            "creadoPor": null,
-            "fechaModificado": null,
-            "modificadoPor": null,
-            "producto": null,
-            "cantidad": null
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "producto": "string",
+            "cantidad": 1
           }
         ],
         "ventaFechaInicio": "26-04-2024",
@@ -717,15 +860,15 @@ GET /api/partner/buscarTipoServicio
         "consumoFechaFin": "26-04-2024",
         "excepcionesDiasSemana": [
           {
-            "id": null,
-            "tipo": null,
-            "lunes": null,
-            "martes": null,
-            "miercoles": null,
-            "jueves": null,
-            "viernes": null,
-            "sabado": null,
-            "domingo": null
+            "id": 1,
+            "tipo": "VENTA",
+            "lunes": false,
+            "martes": false,
+            "miercoles": false,
+            "jueves": false,
+            "viernes": false,
+            "sabado": false,
+            "domingo": false
           }
         ],
         "activacionDesactivacionAutomatica": false
@@ -820,12 +963,12 @@ GET /api/partner/buscarTipoCasilla
         "tipo": "BOLETA",
         "productosCombo": [
           {
-            "fechaCreado": null,
-            "creadoPor": null,
-            "fechaModificado": null,
-            "modificadoPor": null,
-            "producto": null,
-            "cantidad": null
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "producto": "string",
+            "cantidad": 1
           }
         ],
         "ventaFechaInicio": "26-04-2024",
@@ -834,15 +977,15 @@ GET /api/partner/buscarTipoCasilla
         "consumoFechaFin": "26-04-2024",
         "excepcionesDiasSemana": [
           {
-            "id": null,
-            "tipo": null,
-            "lunes": null,
-            "martes": null,
-            "miercoles": null,
-            "jueves": null,
-            "viernes": null,
-            "sabado": null,
-            "domingo": null
+            "id": 1,
+            "tipo": "VENTA",
+            "lunes": false,
+            "martes": false,
+            "miercoles": false,
+            "jueves": false,
+            "viernes": false,
+            "sabado": false,
+            "domingo": false
           }
         ],
         "activacionDesactivacionAutomatica": false
@@ -927,12 +1070,12 @@ GET /api/partner/buscarTipoBoleta
         "tipo": "BOLETA",
         "productosCombo": [
           {
-            "fechaCreado": null,
-            "creadoPor": null,
-            "fechaModificado": null,
-            "modificadoPor": null,
-            "producto": null,
-            "cantidad": null
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "producto": "string",
+            "cantidad": 1
           }
         ],
         "ventaFechaInicio": "26-04-2024",
@@ -941,15 +1084,15 @@ GET /api/partner/buscarTipoBoleta
         "consumoFechaFin": "26-04-2024",
         "excepcionesDiasSemana": [
           {
-            "id": null,
-            "tipo": null,
-            "lunes": null,
-            "martes": null,
-            "miercoles": null,
-            "jueves": null,
-            "viernes": null,
-            "sabado": null,
-            "domingo": null
+            "id": 1,
+            "tipo": "VENTA",
+            "lunes": false,
+            "martes": false,
+            "miercoles": false,
+            "jueves": false,
+            "viernes": false,
+            "sabado": false,
+            "domingo": false
           }
         ],
         "activacionDesactivacionAutomatica": false
@@ -1046,8 +1189,8 @@ GET /api/partner/buscarReserva
         "fechaModificado": "26-04-2024 13:55:45",
         "modificadoPor": "admin",
         "identificacion": {
-          "tipo": "[",
-          "numero": "["
+          "tipo": "CC",
+          "numero": "1111111111"
         },
         "primerNombre": "Nombre 1",
         "segundoNombre": "Nombre 2",
@@ -1076,17 +1219,65 @@ GET /api/partner/buscarReserva
           "creadoPor": "admin",
           "fechaModificado": "26-04-2024 13:55:45",
           "modificadoPor": "admin",
-          "id": "497f6eca-6276-4993-bfeb-53cbbbba6f08",
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "servicioAdicional": {
-            "fechaCreado": null,
-            "creadoPor": null,
-            "fechaModificado": null,
-            "modificadoPor": null,
-            "id": null,
-            "producto": null,
-            "categoriaServicio": null
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "id": 1,
+            "producto": {
+              "fechaCreado": "26-04-2024 13:55:45",
+              "creadoPor": "admin",
+              "fechaModificado": "26-04-2024 13:55:45",
+              "modificadoPor": "admin",
+              "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
+              "codigo": "111555",
+              "nombre": "Producto A",
+              "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+              "valorVariable": false,
+              "valor": 30000,
+              "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
+              "tipo": "BOLETA",
+              "productosCombo": [
+                {
+                  "fechaCreado": "26-04-2024 13:55:45",
+                  "creadoPor": "admin",
+                  "fechaModificado": "26-04-2024 13:55:45",
+                  "modificadoPor": "admin",
+                  "producto": "string",
+                  "cantidad": 1
+                }
+              ],
+              "ventaFechaInicio": "26-04-2024",
+              "ventaFechaFin": "26-04-2024",
+              "consumoFechaInicio": "26-04-2024",
+              "consumoFechaFin": "26-04-2024",
+              "excepcionesDiasSemana": [
+                {
+                  "id": 1,
+                  "tipo": "VENTA",
+                  "lunes": false,
+                  "martes": false,
+                  "miercoles": false,
+                  "jueves": false,
+                  "viernes": false,
+                  "sabado": false,
+                  "domingo": false
+                }
+              ],
+              "activacionDesactivacionAutomatica": false
+            },
+            "categoriaServicio": {
+              "fechaCreado": "26-04-2024 13:55:45",
+              "creadoPor": "admin",
+              "fechaModificado": "26-04-2024 13:55:45",
+              "modificadoPor": "admin",
+              "id": 1,
+              "nombre": "Servicios A"
+            }
           },
-          "visitanteId": "8c06e1d1-3f95-45bd-b423-7fe0ab137edf",
+          "visitanteId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "consumido": false,
           "estadoPago": "APROBADO"
         }
@@ -1099,16 +1290,83 @@ GET /api/partner/buscarReserva
           "modificadoPor": "admin",
           "id": "e3617a05-6e65-433f-b0db-c2a8747f3314",
           "casilla": {
-            "fechaCreado": null,
-            "creadoPor": null,
-            "fechaModificado": null,
-            "modificadoPor": null,
-            "id": null,
-            "hid": null,
-            "nombre": null,
-            "casillero": null,
-            "tipo": null,
-            "clave": null
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "id": 1,
+            "hid": "1527-1",
+            "nombre": "226",
+            "casillero": {
+              "fechaCreado": "26-04-2024 13:55:45",
+              "creadoPor": "admin",
+              "fechaModificado": "26-04-2024 13:55:45",
+              "modificadoPor": "admin",
+              "id": 1,
+              "hid": "wkt1310",
+              "nombre": "Casillero 1",
+              "hikcentralPrivilegeGroupId": "1",
+              "ubicacion": {
+                "fechaCreado": "26-04-2024 13:55:45",
+                "creadoPor": "admin",
+                "fechaModificado": "26-04-2024 13:55:45",
+                "modificadoPor": "admin",
+                "id": 1,
+                "nombre": "Ubicacion A"
+              },
+              "prioridad": 1
+            },
+            "tipo": {
+              "fechaCreado": "26-04-2024 13:55:45",
+              "creadoPor": "admin",
+              "fechaModificado": "26-04-2024 13:55:45",
+              "modificadoPor": "admin",
+              "id": 1,
+              "producto": {
+                "fechaCreado": "26-04-2024 13:55:45",
+                "creadoPor": "admin",
+                "fechaModificado": "26-04-2024 13:55:45",
+                "modificadoPor": "admin",
+                "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
+                "codigo": "111555",
+                "nombre": "Producto A",
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                "valorVariable": false,
+                "valor": 30000,
+                "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
+                "tipo": "BOLETA",
+                "productosCombo": [
+                  {
+                    "fechaCreado": "26-04-2024 13:55:45",
+                    "creadoPor": "admin",
+                    "fechaModificado": "26-04-2024 13:55:45",
+                    "modificadoPor": "admin",
+                    "producto": "string",
+                    "cantidad": 1
+                  }
+                ],
+                "ventaFechaInicio": "26-04-2024",
+                "ventaFechaFin": "26-04-2024",
+                "consumoFechaInicio": "26-04-2024",
+                "consumoFechaFin": "26-04-2024",
+                "excepcionesDiasSemana": [
+                  {
+                    "id": 1,
+                    "tipo": "VENTA",
+                    "lunes": false,
+                    "martes": false,
+                    "miercoles": false,
+                    "jueves": false,
+                    "viernes": false,
+                    "sabado": false,
+                    "domingo": false
+                  }
+                ],
+                "activacionDesactivacionAutomatica": false
+              },
+              "estado": "ACTIVO"
+            },
+            "clave": "F457U"
           },
           "visitanteId": "71b09bc0-f6f6-4f86-b937-6c6689187632",
           "codigo": "6A5SD",
@@ -1124,31 +1382,110 @@ GET /api/partner/buscarReserva
           "modificadoPor": "admin",
           "id": "df668ac0-9ea6-4772-b396-ed7e4b6e11fb",
           "vehiculo": {
-            "fechaCreado": null,
-            "creadoPor": null,
-            "fechaModificado": null,
-            "modificadoPor": null,
-            "id": null,
-            "placa": null,
-            "tipo": null,
-            "hikcentralVehicleId": null
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "id": "a90fbb8e-6318-4d52-812b-2b98018460c5",
+            "placa": "AAA111",
+            "tipo": {
+              "fechaCreado": "26-04-2024 13:55:45",
+              "creadoPor": "admin",
+              "fechaModificado": "26-04-2024 13:55:45",
+              "modificadoPor": "admin",
+              "id": 1,
+              "nombre": "AUTOMOVIL"
+            },
+            "hikcentralVehicleId": "1"
           },
           "zonaParqueadero": {
-            "fechaCreado": null,
-            "creadoPor": null,
-            "fechaModificado": null,
-            "modificadoPor": null,
-            "id": null,
-            "nombre": null,
-            "aforoMax": null,
-            "reservaMax": null,
-            "tiempoMaxSalidaSinCobro": null,
-            "tipoServicio": null,
-            "camarasPlaca": null,
-            "parkingLotIndexCode": null,
-            "listaNegraEntradaIndexCode": null,
-            "listaBlancaSalidaIndexCode": null,
-            "estado": null
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "id": 1,
+            "nombre": "Zona de paqueadero A",
+            "aforoMax": 40,
+            "reservaMax": 30,
+            "tiempoMaxSalidaSinCobro": 15,
+            "tipoServicio": {
+              "fechaCreado": "26-04-2024 13:55:45",
+              "creadoPor": "admin",
+              "fechaModificado": "26-04-2024 13:55:45",
+              "modificadoPor": "admin",
+              "id": 1,
+              "producto": {
+                "fechaCreado": "26-04-2024 13:55:45",
+                "creadoPor": "admin",
+                "fechaModificado": "26-04-2024 13:55:45",
+                "modificadoPor": "admin",
+                "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
+                "codigo": "111555",
+                "nombre": "Producto A",
+                "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                "valorVariable": false,
+                "valor": 30000,
+                "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
+                "tipo": "BOLETA",
+                "productosCombo": [
+                  {
+                    "fechaCreado": "26-04-2024 13:55:45",
+                    "creadoPor": "admin",
+                    "fechaModificado": "26-04-2024 13:55:45",
+                    "modificadoPor": "admin",
+                    "producto": "string",
+                    "cantidad": 1
+                  }
+                ],
+                "ventaFechaInicio": "26-04-2024",
+                "ventaFechaFin": "26-04-2024",
+                "consumoFechaInicio": "26-04-2024",
+                "consumoFechaFin": "26-04-2024",
+                "excepcionesDiasSemana": [
+                  {
+                    "id": 1,
+                    "tipo": "VENTA",
+                    "lunes": false,
+                    "martes": false,
+                    "miercoles": false,
+                    "jueves": false,
+                    "viernes": false,
+                    "sabado": false,
+                    "domingo": false
+                  }
+                ],
+                "activacionDesactivacionAutomatica": false
+              },
+              "tiposVehiculo": [
+                {
+                  "fechaCreado": "26-04-2024 13:55:45",
+                  "creadoPor": "admin",
+                  "fechaModificado": "26-04-2024 13:55:45",
+                  "modificadoPor": "admin",
+                  "id": 1,
+                  "nombre": "AUTOMOVIL"
+                }
+              ],
+              "estado": "ACTIVO"
+            },
+            "camarasPlaca": [
+              {
+                "fechaCreado": "26-04-2024 13:55:45",
+                "creadoPor": "admin",
+                "fechaModificado": "26-04-2024 13:55:45",
+                "modificadoPor": "admin",
+                "id": 1,
+                "nombre": "Camara de placas 1",
+                "tipo": "ENTRADA",
+                "zonaParqueadero": "string",
+                "cameraIndexCode": "1",
+                "estado": "ACTIVO"
+              }
+            ],
+            "parkingLotIndexCode": "1",
+            "listaNegraEntradaIndexCode": "1",
+            "listaBlancaSalidaIndexCode": "1",
+            "estado": "ACTIVO"
           },
           "visitanteId": "df668ac0-9ea6-4772-b396-ed7e4b6e11fb",
           "estadoPago": "APROBADO"
@@ -1162,28 +1499,57 @@ GET /api/partner/buscarReserva
           "modificadoPor": "admin",
           "id": "df668ac0-9ea6-4772-b396-ed7e4b6e11fb",
           "combo": {
-            "fechaCreado": null,
-            "creadoPor": null,
-            "fechaModificado": null,
-            "modificadoPor": null,
-            "id": null,
-            "codigo": null,
-            "nombre": null,
-            "descripcion": null,
-            "valorVariable": null,
-            "valor": null,
-            "imagenId": null,
-            "tipo": null,
-            "productosCombo": null,
-            "ventaFechaInicio": null,
-            "ventaFechaFin": null,
-            "consumoFechaInicio": null,
-            "consumoFechaFin": null,
-            "excepcionesDiasSemana": null,
-            "activacionDesactivacionAutomatica": null
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "id": "6c872a0f-4e21-460a-ae3d-2f3994f73dc6",
+            "codigo": "111555",
+            "nombre": "Producto A",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+            "valorVariable": false,
+            "valor": 30000,
+            "imagenId": "644176ac-41f6-48ac-a4ef-3db5eb09fbf9",
+            "tipo": "BOLETA",
+            "productosCombo": [
+              {
+                "fechaCreado": "26-04-2024 13:55:45",
+                "creadoPor": "admin",
+                "fechaModificado": "26-04-2024 13:55:45",
+                "modificadoPor": "admin",
+                "producto": "string",
+                "cantidad": 1
+              }
+            ],
+            "ventaFechaInicio": "26-04-2024",
+            "ventaFechaFin": "26-04-2024",
+            "consumoFechaInicio": "26-04-2024",
+            "consumoFechaFin": "26-04-2024",
+            "excepcionesDiasSemana": [
+              {
+                "id": 1,
+                "tipo": "VENTA",
+                "lunes": false,
+                "martes": false,
+                "miercoles": false,
+                "jueves": false,
+                "viernes": false,
+                "sabado": false,
+                "domingo": false
+              }
+            ],
+            "activacionDesactivacionAutomatica": false
           },
           "reservaProducto": [
-            {}
+            {
+              "fechaCreado": "26-04-2024 13:55:45",
+              "creadoPor": "admin",
+              "fechaModificado": "26-04-2024 13:55:45",
+              "modificadoPor": "admin",
+              "id": 0,
+              "tipoProducto": "BOLETA",
+              "reservaProductoId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+            }
           ],
           "estadoPago": "APROBADO"
         }
@@ -1197,12 +1563,12 @@ GET /api/partner/buscarReserva
         "nombre": "Descuento A",
         "tiposProducto": [
           {
-            "fechaCreado": null,
-            "creadoPor": null,
-            "fechaModificado": null,
-            "modificadoPor": null,
-            "tipoProducto": null,
-            "cantidadMax": null
+            "fechaCreado": "26-04-2024 13:55:45",
+            "creadoPor": "admin",
+            "fechaModificado": "26-04-2024 13:55:45",
+            "modificadoPor": "admin",
+            "tipoProducto": "BOLETA",
+            "cantidadMax": 0
           }
         ],
         "aplicarConCodigo": true,
