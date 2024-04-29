@@ -1,7 +1,7 @@
 # PCA API Integracion Partners
 
-* [Autenticacion](https://github.com/INFOMEDIA-SERVICE/pca_partner_doc/blob/main/auth.md "Autenticacion")
-* [Integracion Partner](https://github.com/INFOMEDIA-SERVICE/pca_partner_doc/blob/main/partner.md "Integracion Partner")
+* [Autenticacion](https://infomedia-service.github.io/docs/pca/partner.html#tag/Autenticacion "Autenticacion")
+* [Integracion Partner](https://infomedia-service.github.io/docs/pca/partner.html#tag/Partner "Integracion Partner")
 
 
 
